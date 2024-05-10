@@ -1,0 +1,1365 @@
+<TEI xml:lang="rus">
+<teiHeader>
+<date type="written" when="1948">1948</date>
+<date type="print" when="1949">1949</date>
+<profileDesc>
+<textDesc>
+<derivation type="translation" lang="ukr">
+</derivation>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<front>
+<docAuthor>А. Корнейчук</docAuthor>
+<docTitle>
+<titlePart title="main">Макар Дубрава</titlePart>
+<titlePart title="sub">пьеса в трех действиях</titlePart>
+</docTitle>
+
+<castList>
+<head>ДЕЙСТВУЮЩИЕ ЛИЦА</head>
+<castItem>Макар Иванович Дубрава — 60 лет.</castItem>
+<castItem>Оксана Андреевна — его жена, 58 лет.</castItem>
+<castItem>Ольга — их дочь, 35 лет.</castItem>
+<castItem>Артем — их сын, 32 года.</castItem>
+<castItem>Павел Кругляк — муж Ольги, 40 лет.</castItem>
+<castItem>Кондрат Тополя — 40 лет.</castItem>
+<castItem>Анка — его дочь, 13 лет.</castItem>
+<castItem>Гаврила Братченко — 24 года.</castItem>
+<castItem>Трофим Голуб — 23 года.</castItem>
+<castItem>Галя Иванчук — 20 лет.</castItem>
+<castItem>Марфа Степовая — 21 год.</castItem>
+<castItem>Хмара — 62 года.</castItem>
+<castItem>Орлов — 61 год.</castItem>
+<castItem>Зинченко — 62 года.</castItem>
+<castItem>Мария Смерека — 45 лет.</castItem>
+<castItem>Филипп Семененко — 50 лет.</castItem>
+<castItem>Стеша — 25 лет.</castItem>
+</castList>
+ 
+</front>
+<body>
+<div type="act">
+<head>ДЕЙСТВИЕ ПЕРВОЕ</head>
+    <head>В саду — домик на две квартиры. На веранде зеленеют листья дикого винограда. Вдалеке, в пышных садах, — рабочий поселок. В центре поселка — большая площадь, на которой находятся Дом культуры, школа, больница. За поселком, в степи, — териконы шахт. На ступеньках веранды сидят Оксана Андреевна и Макар Иванович. Издали слышны свистки паровозов. Вечереет. Вспыхнуло огромное пламя и на миг осветило териконы.</head>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Чугун пошел... <stage>(Вынул часы, смотрит.)</stage> Точно...</p></sp>
+<sp who="#oksana"><speaker>Оксана.</speaker> <p>А может, наш Петр живой, где-то по миру скитается...</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Вряд ли...</p></sp>
+<sp who="#oksana"><speaker>Оксана.</speaker> <p>А было в газете: английские генералы держат наших в лагерях, ты сам мне читал.</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Читал.</p></sp>
+<sp who="#oksana"><speaker>Оксана.</speaker> <p>Может, и наш Петр там страдает. Вывезли его немцы, а потом...</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Нет.</p></sp>
+<sp who="#oksana"><speaker>Оксана.</speaker> <p>Почему и среди расстрелянных не было нашего Петра?</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Закопали где-нибудь в другом месте.</p></sp>
+<sp who="#oksana"><speaker>Оксана.</speaker> <p>А если бы Артем порасспросил в городе?</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Скажут то, что и мне сказали.</p></sp>
+<sp who="#oksana"><speaker>Оксана.</speaker> <p>Чует мое сердце... Артем смог бы концы найти. Он офицер, ему больше скажут.</p></sp>
+    <stage>Входит Ольга.</stage>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Здравствуйте.</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Здравствуй, дочка.</p></sp>
+    <stage>Целуются.</stage>
+<sp who="#olga"><speaker>Ольга <stage>(целует мать)</stage>.</speaker> <p>Артем приехал?</p></sp>
+<sp who="#oksana"><speaker>Оксана.</speaker> <p>Приехал, приехал ночью.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Я только что пришла из больницы. Павел звонит из шахты, говорит, Артем приехал. Где он?</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Поехал в город.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Зачем?</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Дело есть, скоро будет. Садись.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Какой он теперь?</p></sp>
+<sp who="#oksana"><speaker>Оксана.</speaker> <p>Генерал, настоящий генерал.</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Не генерал, а майор.</p></sp>
+<sp who="#oksana"><speaker>Оксана.</speaker> <p>Так это почти что генерал.</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Еще не одну пару подметок истопчет, пока дойдет до генерала.</p></sp>
+<sp who="#oksana"><speaker>Оксана.</speaker> <p>Так у него же они казенные...</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Мама, Артем будет генералом, будет. <stage>(Обняла мать.)</stage></p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Когда еще будет, а ушел бы из Армии — на шахте сразу стал бы генералом.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Здесь станешь! Вот Павел уже стал.</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Но Артем — не твой Павел. Потомственный шахтер.</p></sp>
+<sp who="#oksana"><speaker>Оксана.</speaker> <p>Разговор идет, Павел твой гулять начал.</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Тише, Оксана.</p></sp>
+<sp who="#oksana"><speaker>Оксана.</speaker> <p>Что тише? Почему Ольга в руки его не возьмет? Я бы ему задала! Попробовал бы ты так гулять, как ее Павел.</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>А что бы ты мне сделала?</p></sp>
+<sp who="#oksana"><speaker>Оксана.</speaker> <p>Взяла б за чуб и тянула б через весь поселок. Вот так...</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Стой, стой, последние оборвешь.</p></sp>
+<sp who="#oksana"><speaker>Оксана.</speaker> <p>Все вы такие.</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Я ведь без тебя ни к кому в гости не ходил.</p></sp>
+<sp who="#oksana"><speaker>Оксана.</speaker> <p>Как не ходил? А первого мая где ты был?</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Когда?</p></sp>
+<sp who="#oksana"><speaker>Оксана.</speaker> <p>Первого мая в тысяча девятьсот шестнадцатом году.</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Сто тысяч раз тебе говорил: было у нас в лесу нелегальное собрание.</p></sp>
+<sp who="#oksana"><speaker>Оксана.</speaker> <p>А пришел ночью и выпивший.</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>По дороге зашел к Климу Гире.</p></sp>
+<sp who="#oksana"><speaker>Оксана.</speaker> <p>А почему меня не позвал?</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Домой спешил. Ты видишь, Ольга: умирать будет, и то вспомнит первое мая шестнадцатого года.</p></sp>
+<sp who="#oksana"><speaker>Оксана.</speaker> <p>Буду вспоминать. Если тебя не держать в руках, ты и на том свете к Климу Гире зайдешь.</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Не бойся. Клим давно в раю, а меня в ад отправят. Это ты с ним встретишься.</p></sp>
+<sp who="#oksana"><speaker>Оксана.</speaker> <p>Все вы такие! Смотри, дочка, за Павлом.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Поздно смотреть.</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Почему?</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Не выходит у меня с ним. Надо кончать. Мама говорит правду. Павел не только водку пьет...</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Так думаешь?</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Об этом все говорят.</p></sp>
+<sp who="#oksana"><speaker>Оксана.</speaker> <p>Что ты, доченька! Разве можно так к сердцу принимать! Люди языки чешут.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Не успокаивайте. Я не маленькая. Знаю, в жизни все может случиться, но какая-то мера должна быть.</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Говорить могут... Мало ли что нашему брату, мужчине могут приписать!</p></sp>
+<sp who="#oksana"><speaker>Оксана.</speaker> <p>Но, но...</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Дело не только в этом. Павел за последний год так изменился, его раздражает каждое мое слово. Вот сегодня я сказала, что на его шахте увеличиваются несчастные случаи. У меня ведь в больнице все видно, как в зеркале А он так налетел на меня: «Сидите, в белых халатах, в кабинетах, в забой бы вас погнать, на добычу»... Послушал бы, что шахтеры говорят о нем, когда я им оказываю помощь... Я не могу быть только женой, да еще такой, которая на все закрывает глаза.</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Это так, но семья есть семья, за нее надо бороться. Ты ведь его любишь?</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Люблю.</p></sp>
+    <stage>Пауза.</stage>
+<sp who="#oksana"><speaker>Оксана.</speaker> <p>Ничего, дочь. Он еще пожалеет, и очень пожалеет.</p>
+    <stage>Слышен гудок.</stage>
+    <p>Нужно ужин готовить, девушки сейчас придут. Неси дрова, старик.</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Сейчас.</p></sp>
+<sp who="#oksana"><speaker>Оксана.</speaker> <p>Поужинай с нами, Ольга.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Спасибо, мама.</p></sp>
+<sp who="#oksana"><speaker>Оксана.</speaker> <p>А после ужина поговорим. Хорошо, доченька?</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Хорошо.</p>
+    <stage>Оксана ушла в дом.</stage>
+    <p>Пить начал Павел.</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Это пройдет. В наше время тоже было... Сорвется шахтер, гуляет, до последней нитки пропьет все, а потом берется за ум. <stage>(Оглянулся, тихо.)</stage> Было один раз такое и со мной в молодости. Было, Оля.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>А мама что?</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Хотела бросить. Едва упросил. Два месяца варила из меня воду, а потом простила. Правда, взяла слово, и я его тридцать лет держу, но не ручаюсь, как будет дальше. <stage>(Смеется.)</stage></p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Куда тебе теперь!</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>А чего? Я б сказал, осень только еще наступает. Вот нашу Звезду поднимем, вспомню молодость, три дня гулять будут.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Если Павел так будет хозяйничать, как сейчас, то ждать долго.</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>А я ему объявил войну.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Как?</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Ты нашу газету видела сегодня?</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Нет.</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Почитай.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Что там?</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Напечатали мою статейку. Писал я ее долго. Месяц ходил по шахте с часами, хронометраж делал. Выложил все.</p>
+    <stage>Из Кустов к крайнему окну крадется девочка, она прыгает на окно.</stage>
+    <p>Анка!</p></sp>
+<sp who="#anka"><speaker>Анка.</speaker> <p>Что?</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Иди сюда.</p></sp>
+<sp who="#anka"><speaker>Анка.</speaker> <p>Чего тебе нужно?</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Где ты была?</p></sp>
+<sp who="#anka"><speaker>Анка.</speaker> <p>Какое тебе дело?</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Иди, что-то скажу.</p></sp>
+<sp who="#anka"><speaker>Анка.</speaker> <p>Говори.</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Иди.</p></sp>
+<sp who="#anka"><speaker>Анка.</speaker> <p>Не хочу. <stage>(Исчезла в окне.)</stage></p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Беда рыжему с ней. Пропадет девочка. Он на шахте, а она — где только не бегает. И такое злющее растет. Бьет всех мальчишек. Нужно Кондрату жениться.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>А почему в самом деле Кондрат не женится? Макар. Тихий, слишком тихий. А на работе огонь... Хороший шахтер.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Таким был и в молодости. Тихий-тихий. Макар. Кажется, Кондрат ухаживал за тобой?</p></sp>
+    <sp who="#olga"><speaker>Ольга.</speaker> <p>Нет. Мы только дружили.</p></sp>
+    <sp who="#oksana"><speaker>Голос Оксаны:</speaker> <p>«Макар, когда ты дрова принесешь?»</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Иду, иду... <stage>(Ушел в сад.)</stage></p></sp>
+    <stage>Из окна вылезла Анка, в руках у нее шахтерская лампочка.</stage>
+<sp who="#anka"><speaker>Анка <stage>(издали смотрит на Ольгу)</stage>.</speaker> <p>А я знаю, зачем ты. сюда пришла.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Скажи, если знаешь.</p></sp>
+<sp who="#anka"><speaker>Анка.</speaker> <p>Не скажу.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Иди сюда.</p></sp>
+<sp who="#anka"><speaker>Анка.</speaker> <p>Не хочу.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Боишься меня?</p></sp>
+<sp who="#anka"><speaker>Анка.</speaker> <p>Я боюсь? <stage>(Подошла, села около Ольги.)</stage> Меня все мальчишки боятся.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>А кто тебе лоб разбил?</p></sp>
+<sp who="#anka"><speaker>Анка.</speaker> <p>Никто, сама разбила.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Как?</p></sp>
+<sp who="#anka"><speaker>Анка.</speaker> <p>В старую шахту лазила.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Зачем?</p></sp>
+<sp who="#anka"><speaker>Анка.</speaker> <p>А ты мне скажи: если долбить все вниз и вниз, можно пробить дыру сквозь землю или нет?</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Нет.</p></sp>
+<sp who="#anka"><speaker>Анка.</speaker> <p>Учитель тоже так говорит, а я знаю, как это сделать.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Расскажи.</p></sp>
+<sp who="#anka"><speaker>Анка.</speaker> <p>Не скажу.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Почему?</p></sp>
+<sp who="#anka"><speaker>Анка.</speaker> <p>Это военная тайна.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Если так, не говори.</p></sp>
+<sp who="#anka"><speaker>Анка.</speaker> <p>Как жаль, что война окончилась!</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Почему?</p></sp>
+<sp who="#anka"><speaker>Анка.</speaker> <p>Я бы поступила в «Молодую гвардию». Что, не веришь?</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Верю. Только не ходи в старую шахту, там завалить может.</p></sp>
+<sp who="#anka"><speaker>Анка.</speaker> <p>Нет, не завалит.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Куда это ты с лампой?</p></sp>
+<sp who="#anka"><speaker>Анка.</speaker> <p>Тайна.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>И ты не боишься лазить в старую шахту?</p></sp>
+<sp who="#anka"><speaker>Анка.</speaker> <p>А чего мне бояться? Где были наши партизаны, там и я могу быть. Я ничего не боюсь.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>А разве там были партизаны?</p></sp>
+<sp who="#anka"><speaker>Анка.</speaker> <p>Были.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Ты откуда знаешь?</p></sp>
+<sp who="#anka"><speaker>Анка.</speaker> <p>Знаю. В шахте нашла пустые немецкие патроны. Ольга. Ну и что из того?</p></sp>
+<sp who="#anka"><speaker>Анка.</speaker> <p>В кого ж немцы стреляли? Ясно, что в партизан.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Может быть. А почему у тебя синяк под глазом? </p></sp>
+<sp who="#anka"><speaker>Анка.</speaker> <p>Петька ударил. Он такой задавака. Думает, что если отец инженер, то ему все можно.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>За что он тебя ударил?</p></sp>
+<sp who="#anka"><speaker>Анка.</speaker> <p>Обозвал меня рыжей кошкой, а я ему дала сдачи. Ольга. Как?</p></sp>
+<sp who="#anka"><speaker>Анка.</speaker> <p>Не знаете, как? Какая вы чудная. Разве вас никто не обижал?</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Было. Обижали.</p></sp>
+<sp who="#anka"><speaker>Анка.</speaker> <p>И вы не давали сдачи?</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Не всегда.</p></sp>
+<sp who="#anka"><speaker>Анка.</speaker> <p>И почему вы, взрослые, такие трусы?</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Что?</p></sp>
+<sp who="#anka"><speaker>Анка.</speaker> <p>Редко один другому сдачу даете.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>А ты не трус?</p></sp>
+<sp who="#anka"><speaker>Анка.</speaker> <p>Пусть только кто попробует...</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>А вот Петька тебе синяк поставил!</p></sp>
+<sp who="#anka"><speaker>Анка.</speaker> <p>А я ему нос разбила. Он и сейчас плачет.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>А ты плакала?</p></sp>
+<sp who="#anka"><speaker>Анка.</speaker> <p>Я никогда не плачу.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>А что тебе отец скажет, когда увидит такой синяк?</p></sp>
+<sp who="#anka"><speaker>Анка.</speaker> <p>Ничего. Он меня боится.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Боится? А ты его любишь?</p></sp>
+<sp who="#anka"><speaker>Анка.</speaker> <p>Я его не люблю.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Почему? Ведь он у тебя красивый, хороший. Анка. А ты откуда знаешь?</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Я дружила с ним в молодости. Он добрый, сердечный.</p></sp>
+<sp who="#anka"><speaker>Анка.</speaker> <p>Рыжий он. А я еще рыжее. Рыжие добрыми не могут быть.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Почему?</p></sp>
+<sp who="#anka"><speaker>Анка.</speaker> <p>Потому что над нами все смеются. О нем говорят «Кондрат рыжий», а обо мне «рыжая кошка Кондрата». </p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Это глупые говорят, а ты их не слушай.</p></sp>
+<sp who="#anka"><speaker>Анка.</speaker> <p>Меня никто замуж не возьмет.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Почему? Ты ведь красивая девочка.</p></sp>
+<sp who="#anka"><speaker>Анка.</speaker> <p>Не ври. Я рыжая кошка, рыжая кошка.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>А учишься хорошо?</p></sp>
+<sp who="#anka"><speaker>Анка.</speaker> <p>На «отлично». Только раз меня хотел директор выгнать из школы.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>За что?</p></sp>
+<sp who="#anka"><speaker>Анка.</speaker> <p>Это как мы с отцом вернулись с Кузбасса. Пришла к нам новая учительница, такая накрашенная, здесь перманент, а здесь рога. Подошла ко мне, взяла за подбородок: «Скажи, девочка, что ты делала вчера дома?» А я ей: «Что ты делала, когда немцы были?» А она: «Я страдала, как все люди, я так страдала». «Врешь, — крикнула я — ты с немецким офицером гуляла под руку». И как начали мы кричать — вон, вон, вон. Она удрала. Что потом было! Директор меня вызвал, кричал «выгоню», но комиссия разобрала, выгнали ее и директора. Все знали, что она с офицером гуляла и никогда учительницей не была.</p></sp>
+    <stage>Близко слышен свист.</stage>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Кто это?</p></sp>
+<sp who="#anka"><speaker>Анка.</speaker> <p>Мой начальник штаба, Володька. <stage>(Свистнула.)</stage> Мы идем по следам наших... В общем, тайна... не скажу. <stage>(Побежала в сад.)</stage></p></sp>
+    <stage>Идет Макар, несет дрова в дом.</stage>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Отец, в старой шахте были партизаны?</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Нет. Наши партизаны были на Глубокой. В старой шахте ежеминутно может завалить. А что?</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Это я так.</p></sp>
+    <stage>Макар пошел в дом. Входит Кондрат. Он несет на плече почта целый телеграфный столб.</stage>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>Ольга Макаровна, здравствуйте.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Здравствуй, Кондрат. Что ты тащишь? Кондрат. Около нашей шахты меняют столбы телеграфные, я выпросил старый столб. Сарай хочу построить. Вот Макар Иванович тоже советует. Раз, говорит, я хочу купить кабанчика, то, конечно, мне сарай нужен.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Да положи его.</p></sp>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>Сейчас. <stage>(Отнес в сторону, кладет, возвращается.)</stage> Огород у меня большой в этом году. Картофеля много посадил.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Садись, Кондрат.</p>
+    <stage>Кондрат садится.</stage>
+    <p>Кто тебе огород обрабатывает?</p></sp>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>Сам.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Как же ты живешь?</p></sp>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>Неплохо.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Сколько зарабатываешь?</p></sp>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>Как когда. Этот месяц у нас неважный. </p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>А кто виноват?</p></sp>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>Начальство.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Но ведь вы план не выполняете.</p></sp>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>А почему? Разве мы лентяи? Я в неделю могу дать месячный план. Дали бы только развернуться. Я, Оля, могу рубать уголь, как играть на баяне.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>А ты когда-то хорошо играл. Как теперь? Кондрат. Нет баяна — негде купить. А как вы живете, Ольга Макаровна?</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Почему ты меня на «вы» называешь? Разве мы не друзья?</p></sp>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>Я бы с радостью, но...</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>А если с радостью, так и зови меня на «ты». Кондрат. Ну, хорошо...</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Почему замолчал?</p></sp>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>Разве я молчу?</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Выходит, я молчу.</p>
+    <stage>Кондрат снял кепку.</stage>
+    <p>Эх, Кондрат, такой же пожар на голове, как и был когда-то.</p></sp>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>Рыжий, рыжий, как и был. Рыжим и помру. <stage>(Крикнул.)</stage> Анка! Анка!</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Она куда-то побежала.</p></sp>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>Вот бесенок, снова к ночи придет.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Хорошая девочка у тебя. Учится хорошо? </p></sp>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>Очень хорошо.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>А помнишь, как ты мне письма носил от Павла? Кондрат. А как же! Какой он был живой, веселый. Ольга. Да. <stage>(Пауза.)</stage> Теперь отяжелел, на сердце жалуется.</p></sp>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>Походил бы каждый день под землей, похудел бы, и сердце было бы здоровое. Телефон губит начальников, пухнут они от него. Павел сидит у телефона, и инженер с него пример берет, редко когда вниз спускается.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Как же ты с ним теперь?</p></sp>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>Павел очень высоко пошел, а я, каким был, таким и остался. Когда вы только приехали, я было к нему разогнался, но он так на меня посмотрел, что я растерялся. Теперь только о делах говорим.</p>
+    <stage>Ольга вытерла слезу.</stage>
+    <p>Что с тобой, Оля?</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Ничего, ничего. <stage>(Пауза.)</stage> Скажи, Кондрат, я сколько раз собиралась тебя спросить: куда ты исчез в день моей свадьбы?</p></sp>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>А ты не забыла?</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Нет.</p></sp>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>Тогда с твоей свадьбы пошел я на станцию, сел в поезд, потом пересел в другой, а потом попал в Одессу. Поступил на пароход кочегаром. Думал, никогда не вернусь. За три года где только не бывал. Но... Бросаешь уголь в топку, и все кажется, что он с Звезды нашей. Потянуло в шахту. Отец твой правду говорит: тот, кто родился в Донбассе, где бы ни бродил, а вернется.</p></sp>
+<sp who="#olga"><speaker>Ольга <stage>(тихо)</stage>.</speaker> <p>Зачем ты это сделал?</p></sp>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>Дело давнее.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Ну, а все-таки?</p></sp>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>Теперь сказать можно. Я, Оля... я любил тебя.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Любил?</p></sp>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>Да, ты прости, дело давнее...</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Почему ж ты мне ничего не сказал?</p></sp>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>Не мог, Оля. <stage>(Пауза.)</stage> Как быстро вечереет... Ольга. Вот оно как в жизни бывает...</p></sp>
+    <stage>Долгая пауза. Слышен баян.</stage>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>Парни идут, а наших барышень нет.</p>
+    <stage>Входят Гаврила и Трофим, здороваются.</stage>
+    <p>Садитесь, парни, с нами.</p></sp>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>Не помешаем вам?</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Нет, нет, пожалуйста.</p></sp>
+    <stage>Гаврила и Трофим садятся. Долгая пауза.</stage>
+<sp who="#trofim"><speaker>Трофим.</speaker> <p>А погода сегодня хорошая.</p></sp>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>Думаю, что и завтра будет хорошая.</p></sp>
+<sp who="#trofim"><speaker>Трофим.</speaker> <p>Может, и будет.</p></sp>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>Похоже на то.</p></sp>
+<sp who="#trofim"><speaker>Трофим.</speaker> <p>Пойдем, Гаврила?</p></sp>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>Подождите, у девушек собрание, сейчас придут.</p></sp>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>Если так, то подождем.</p></sp>
+<sp who="#trofim"><speaker>Трофим.</speaker> <p>Подождем.</p></sp>
+    <stage>Пауза.</stage>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>Что это вы, ребята, сидите, словно женихи? Сыграли б.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Сыграйте.</p></sp>
+<sp who="#trofim"><speaker>Трофим.</speaker> <p>Давай, Гаврила.</p></sp>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>Какую вам — сердечную или веселую? Ольга. Сердечную.</p></sp>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>Тогда Трофим будет играть. <stage>(Передает баян.)</stage> Ольга. Почему это так?</p></sp>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>Он больше годится к сердечной, а я только к веселой. Начинайте, Троша.</p></sp>
+<sp who="#trofim"><speaker>Трофим.</speaker> <p>Начинаю. <stage>(Играет.)</stage></p></sp>
+    <stage>Через некоторое время входят девушки Галя и Марфа. Парни встали.</stage>
+<sp who="#marfa"><speaker>Марфа.</speaker> <p>Говорила тебе, Галя, что будут ждать.</p></sp>
+<sp who="#galya"><speaker>Галя.</speaker> <p>Здравствуй, Гаврила.</p></sp>
+<sp who="#marfa"><speaker>Марфа.</speaker> <p>Здорово, Троша. Это ты играл?</p></sp>
+<sp who="#trofim"><speaker>Трофим.</speaker> <p>Я.</p></sp>
+<sp who="#galya"><speaker>Галя.</speaker> <p>Так и знала.</p></sp>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>Давай баян.</p></sp>
+<sp who="#trofim"><speaker>Трофим.</speaker> <p>Обожди, Гаврила.</p></sp>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>Давай, давай... <stage>(Забирает баян.)</stage></p></sp>
+<sp who="#galya"><speaker>Галя.</speaker> <p>Подождите, мы быстро переоденемся.</p></sp>
+<sp who="#marfa"><speaker>Марфа.</speaker> <p>В две минуты.</p></sp>
+    <stage>Вбежали в дом.</stage>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>Хорошо играешь, а ну дай баян.</p>
+    <stage>Гаврила передает.</stage>
+    <p>Ох, и баян! Продай, Гаврила.</p></sp>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>Я ведь вам говорил, не продаю.</p></sp>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>Жаль. <stage>(Тихо наигрывает.)</stage></p></sp>
+<sp who="#trofim"><speaker>Трофим.</speaker> <p>Как у вас на Звезде дела идут?</p></sp>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>Не очень. А у вас на Глубокой?</p></sp>
+    <sp who="#gavrila"><speaker>Гаврила.</speaker> <p>Порядок. Мы сегодня с Трошей дали всем пить. Рубанули столько — за три смены не вывезут.</p></sp>
+    <sp who="#kondrat"><speaker>Кондрат <stage>(наигрывает)</stage>.</speaker> <p>У вас хозяин хороший.</p></sp>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>Дисциплину любит. Уж ежли что — держись. Трофим. А все-таки он душевный. Как ни кроет, а никогда не уничтожает, говорит, как человек с человеком.</p></sp>
+    <stage>Входит Макар.</stage>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Здорово, ребята!</p></sp>
+<sp who="#parni"><speaker>Парни.</speaker> <p>Здравствуйте, Макар Иванович!</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Садитесь.</p></sp>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>Постоим.</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Не забыл, Кондрат?</p></sp>
+<sp who="#kondrat"><speaker>Кондрат <stage>(наигрывает)</stage>.</speaker> <p>Не забыл.</p></sp>
+    <stage>Входят девушки.</stage>
+    <sp who="#gavrila"><speaker>Гаврила.</speaker> <p>Давайте баян.</p></sp>
+    <stage>Кондрат возвращает баян.</stage>
+<sp who="#galya"><speaker>Галя.</speaker> <p>Пойдемте в сад.</p></sp>
+    <stage>Парни в девушки уходят в сад.</stage>
+<sp who="#oksana"><speaker>Оксана <stage>(из окна)</stage>.</speaker> <p>Оля, ужинать. Макар, иди.</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Сейчас. Пойдем, Кондрат, с нами.</p></sp>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>Спасибо.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Пойдем. <stage>(Взяла его под руку, ведет в дом.)</stage></p></sp>
+<stage>Входит Павел. Его не замечают.</stage>
+<sp who="#pavel"><speaker>Павел <stage>(когда Ольга и Кондрат вошли в дом, тихо)</stage>.</speaker> <p>Макар Иванович.</p></sp>
+<sp who="#makar"><speaker>Макар <stage>(повернулся)</stage>.</speaker> <p>Павел?</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Я.</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Заходи, там Ольга.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Видел. Кого это она повела?</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Кондрата.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Рыжий Кондрат?</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Он. Ты когда-то дружил с ним.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Дружил. Он был тихий-тихий...</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Пойдем в дом, поужинаем с нами.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Я не ужинать пришел. Газетку видали, Макар Иванович?</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>А... Видел и читал, Павел Сафронович.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Новый рабкор появился на Звезде.</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Почему новый — старый рабкор. Еще когда ты под стол пешком ходил, он уже писал в «Правду».</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>И тогда о Звезде писал?</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Писал, когда дела шли плохо.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>И помогало?</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Помогало. Начальника шахты сняли и судили. </p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Может, он и сейчас этого хочет?</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Он хочет одного: чтоб наша большая техника использовалась бы до конца, чтоб Звезда первой светилась над всем Донбассом. Кроме того, у него есть еще и личное желание.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Какое?</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Он хочет еще пожить при коммунизме. И как. бы ему ни мешали, доживет до тех дней, непременно доживет.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Где же он нашел такого дурака, который не хотел бы жить при коммунизме?</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Искать не надо. Он здесь.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Выходит, я?</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Люблю, когда человек догадлив.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Слушайте, Макар Иванович, хотя и тесть вы мне, но меру знайте, может терпение лопнуть.</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>С тобой, голубчик, не тесть говорит, а коммунист</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Воевать хочешь?</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Хотел бы, но не с кем.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Что?</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Ты уже созрел. Тебя раз хорошо потрусить — и упадешь.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>А ты уж перезрел. Дунуть на тебя — и рассыплешься.</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Попробуй. Только, когда начнешь дуть, то намажь губы салом, чтоб не полопались. И еще одно скажу, по-шахтерски, в глаза: берись за ум, еще не поздно, а то выгонят тебя не только из шахты, но и из партии, и не спасут тебя ни эти ордена, никакие прошлые заслуги.</p></sp>
+    <stage>Входит Ольга.</stage>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Павел!</p>
+    <stage>Павел молчит.</stage>
+<p>Отец!</p>
+    <stage>Макар молчит.</stage>
+<p>Что случилось? Что с тобой?.. <stage>(Положила руку на плечо Павла.)</stage></p>
+    <stage>Павел отвел ее руку, ушел.</stage>
+<p>Павел!</p>
+    <stage>Павел не обернулся.</stage>
+    <p>Что случилось, отец?</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Иди, Ольга, за ним, теперь ты ему нужна... Иди, дочь.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Будь здоров, отец. <stage>(Пошла.)</stage></p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Будь здорова, дочь.</p></sp>
+    <stage>Ольга ушла. Макар пошел в дом. Из сада выходит Галя, за ней — Гаврила.</stage>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>Галя, Галя...</p></sp>
+<sp who="#galya"><speaker>Галя.</speaker> <p>Не хочу с тобой разговаривать Гаврила. Почему?</p></sp>
+<sp who="#galya"><speaker>Галя.</speaker> <p>Что ты задаешься?</p></sp>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>А что я такое сказал?</p></sp>
+<sp who="#galya"><speaker>Галя.</speaker> <p>Не имеешь права смеяться над нами.</p></sp>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>Да разве я смеюсь над тобой? Я о вашей шахте.</p></sp>
+<sp who="#galya"><speaker>Галя.</speaker> <p>Наша шахта — это я, Марфа, все, которые на ней работают.</p></sp>
+    <stage>Входят Марфа и Трофим.</stage>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>Скажи ей, Марфа...</p></sp>
+<sp who="#marfa"><speaker>Марфа <stage>(перебивает)</stage>.</speaker> <p>Скажу, скажу... Пойдем, Галя в дом.</p></sp>
+<sp who="#trofim"><speaker>Трофим.</speaker> <p>Девушки, что вы. Ну, Гаврила не так сказал.</p></sp>
+<sp who="#marfa"><speaker>Марфа.</speaker> <p>Не впервые слышим от него. Да и ты тоже нос дерешь. Подумаешь — передовые! Мы тоже будем передовыми.</p></sp>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>Пойдем, Троша.</p></sp>
+<sp who="#trofim"><speaker>Трофим.</speaker> <p>Подожди, Гаврила, надо разобраться.</p></sp>
+<sp who="#galya"><speaker>Галя.</speaker> <p>Нечего разбираться. Нам надоело слушать, как вы хвастаетесь своими заработками.</p></sp>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>Переходите на нашу шахту, и вы будете хорошо зарабатывать.</p></sp>
+<sp who="#galya"><speaker>Галя.</speaker> <p>Нас комсомол прислал сюда поднимать Донбасс, а не искать, где больше платят.</p></sp>
+<sp who="#trofim"><speaker>Трофим.</speaker> <p>Не горячись, Галя.</p></sp>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>Мы добычу даем за себя и за вас, вы ж в хвосте плететесь и всю картину Донбасса портите.</p></sp>
+<sp who="#galya"><speaker>Галя.</speaker> <p>Так помогите нам, чтоб не плелись, переходите на нашу шахту. Без вас на Глубокой ничего не случится, она идет впереди всех,</p></sp>
+<sp who="#marfa"><speaker>Марфа.</speaker> <p>Верно, переходите, тогда и картина будет другая.</p></sp>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>А зачем нам переходить? Нашу шахту весь Союз знает, а у вас что на сегодняшний день? Дыра, а не шахта.</p></sp>
+<sp who="#galya"><speaker>Галя.</speaker> <p>Дыра? Тогда идите к своим девушкам. <stage>(Ушла в дом.)</stage></p></sp>
+<sp who="#marfa"><speaker>Марфа.</speaker> <p>Эх вы, задаваки!.. <stage>(Тоже пошла в дом.)</stage></p></sp>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>Вот и все.</p></sp>
+<sp who="#trofim"><speaker>Трофим.</speaker> <p>Что же теперь будет?</p></sp>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>А я почем знаю.</p></sp>
+<sp who="#trofim"><speaker>Трофим.</speaker> <p>А зачем ты начал смеяться?</p></sp>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>Не в этом дело.</p></sp>
+<sp who="#trofim"><speaker>Трофим.</speaker> <p>А в чем?</p></sp>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>Завидуют нам.</p></sp>
+<sp who="#trofim"><speaker>Трофим.</speaker> <p>Как сказала... задаваки...</p></sp>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>Ну и задаюсь, имею чем. За этот месяц у нее восемьсот, а у меня пять тысяч.</p></sp>
+<sp who="#trofim"><speaker>Трофим.</speaker> <p>Так, может быть, она столько же заработала б. Но ты ведь знаешь, как у них на шахте.</p></sp>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>А я при чем?</p></sp>
+<sp who="#trofim"><speaker>Трофим.</speaker> <p>А что, если б мы перешли к ним и показали класс работы?</p></sp>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>Ты сдурел. О нас в газетах пишут. Быть первыми на самой первой шахте и променять на что? Пойдем в гости к нашим девушкам.</p></sp>
+<sp who="#trofim"><speaker>Трофим.</speaker> <p>К кому ж?</p></sp>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>К Марусе.</p></sp>
+<sp who="#trofim"><speaker>Трофим.</speaker> <p>Сказал! Лучше к Кате.</p></sp>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>Тоже выдумал! Сидит, как квочка на цыплятах. К Пелагее пойдем.</p></sp>
+<sp who="#trofim"><speaker>Трофим.</speaker> <p>К Пелагее? Да она такая врунья.</p></sp>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>К кому ж тогда?</p></sp>
+    <stage>Выходят Галя и Марфа. Из дома слышен голос Оксаны: «Куда вы, девушки?»</stage>
+<sp who="#galya"><speaker>Галя.</speaker> <p>В кино идем.</p></sp>
+    <stage>Посмотрели на парней и быстро ушли на улицу.</stage>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>Может, к Наде пойдем?</p></sp>
+<sp who="#trofim"><speaker>Трофим.</speaker> <p>У нее Николай сидит. Зачем им мешать? Говорят, сегодня хорошая новая картина!</p></sp>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>Новая! «Чапаев». Сто раз видел.</p></sp>
+<sp who="#trofim"><speaker>Трофим.</speaker> <p>Давай пойдем к девушкам в общежитие.</p></sp>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>Да ну их к бесу, всех девушек! Пойдем, Троша, смотреть «Чапаева» в сто первый раз.</p></sp>
+<sp who="#trofim"><speaker>Трофим.</speaker> <p>Вот это верно, Гаврила.</p></sp>
+    <stage>Гаврила растянул баян. Уходят напевая. Выходят Кондрат, Макар и Оксана.</stage>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>Кажется, время спать, спокойной ночи. </p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Спокойной ночи.</p></sp>
+    <stage>Кондрат пошел к себе.</stage>
+<sp who="#oksana"><speaker>Оксана.</speaker> <p>Что Павел?</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Злится — значит, толк будет.</p></sp>
+    <stage>Входит Артем.</stage>
+<sp who="#oksana"><speaker>Оксана.</speaker> <p>Артем, где это ты так долго пропадал? Артем. Дела задержали в городе.</p></sp>
+<sp who="#oksana"><speaker>Оксана.</speaker> <p>Иди, Артем, ужинать.</p></sp>
+<sp who="#artem"><speaker>Артем.</speaker> <p>Спасибо, мама, я не голоден.</p></sp>
+<sp who="#oksana"><speaker>Оксана.</speaker> <p>Как тебе хорошо в этом мундире!</p></sp>
+<sp who="#artem"><speaker>Артем.</speaker> <p>Ну!..</p></sp>
+<sp who="#oksana"><speaker>Оксана.</speaker> <p>Очень к лицу.</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>А все-таки не для того ты учился, стал горным инженером, чтобы ходить в военном мундире. Петр погиб. Кто нашу честь шахтерскую защищать будет?</p></sp>
+<sp who="#artem"><speaker>Артем.</speaker> <p>Отец, не в мундире дело. Я офицер, и офицерская честь такая же, как и шахтерская. Разве Армия может сейчас обойтись без инженеров?</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Не может — это правда. Что ж, иди своей дорогой.</p></sp>
+<sp who="#oksana"><speaker>Оксана.</speaker> <p>А я завтра иду на шахту.</p></sp>
+<sp who="#artem"><speaker>Артем.</speaker> <p>Зачем?</p></sp>
+<sp who="#oksana"><speaker>Оксана.</speaker> <p>Собрала своих подруг, идем на помощь, берем шефство над общежитием, столовой, а Макар своих стариков ведет.</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Мои старые приятели — Орлов, Хмара, Зинченко — решили выйти с понедельника на шахту. Увидишь мою гвардию — большая сила на Звезду идет.</p></sp>
+<sp who="#artem"><speaker>Артем.</speaker> <p>Да разве их старые руки смогут что-нибудь серьезное сделать? Тебе давно пора отдыхать, а они ведь старше тебя.</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Дело не в руках, а в голове. Они пойдут как инструктора. Учить людей будут. Помогут навести порядок. Народ заслуженный. Дошло, товарищ инженер?</p></sp>
+<sp who="#artem"><speaker>Артем.</speaker> <p>Дошло. А все-таки тебе, мама, не следует итти на шахту.</p></sp>
+<sp who="#oksana"><speaker>Оксана.</speaker> <p>Отцу можно, а я что, старше его? На целых два года моложе. Я расскажу тем девушкам и парням, которые теперь пришли в Донбасс, как мы работали на англичанина, как жили и что теперь советская власть сделала для шахтера. Я им, сто чертей...</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Но, но, но. Только не ругайся.</p></sp>
+<sp who="#oksana"><speaker>Оксана.</speaker> <p>Не перебивай, коль правду говорю. Все кричат: то кина мало, то радиа мало, а уголь кто будет давать?</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Иди, Оксана, я с Артемом хочу поговорить. Не трать порох, на шахте завтра скажешь.</p></sp>
+<sp who="#oksana"><speaker>Оксана.</speaker> <p>Скажу, еще не такое скажу! На шахте меня никто не удержит. <stage>(Ушла в дом.)</stage></p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Там был?</p></sp>
+<sp who="#artem"><speaker>Артем.</speaker> <p>Был, отец.</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Что сказали?</p></sp>
+<sp who="#artem"><speaker>Артем.</speaker> <p>Первым гестаповцы посадили нашего Петра, а через день весь комитет. Расстреляли их возле старой шахты, но среди расстрелянных Петра не было. Куда он исчез, никто не знает. Одно ясно — выдал их кто-то из местных. Но кто — неизвестно. Больше ничего не сказали.</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Ничего?</p></sp>
+<sp who="#artem"><speaker>Артем.</speaker> <p>Ничего.</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Всех наградили посмертно, а нашего Петра нет.</p></sp>
+<sp who="#artem"><speaker>Артем.</speaker> <p>Если бы он был вместе со всеми...</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Все равно несправедливо. Его убили где-то в другом месте.</p></sp>
+<sp who="#artem"><speaker>Артем.</speaker> <p>Взяли на расстрел Петра со всем комитетом.</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Так что же это может быть?</p></sp>
+<sp who="#artem"><speaker>Артем.</speaker> <p>Не знаю. Пройдет время — когда-нибудь выяснится.</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Мучит меня: не знаю, как Петр стоял перед смертью.</p></sp>
+<sp who="#artem"><speaker>Артем.</speaker> <p>Я верю, Петр...</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>И я верю, но иногда такое в голове начинает мерещиться, ночи не спишь. Скажи, сын, твердо в Армии решил остаться?</p></sp>
+<sp who="#artem"><speaker>Артем.</speaker> <p>Твердо. Вы же сами когда-то были в Армии командиром и знаете, как можно полюбить военное дело.</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Да, скажу и я тебе правду: я тоже когда-то думал навсегда остаться в Армии.</p></sp>
+<sp who="#artem"><speaker>Артем.</speaker> <p>Почему же не остался?</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Почему?</p></sp>
+    <stage>Пауза.</stage>
+<sp who="#artem"><speaker>Артем.</speaker> <p>Скажи, отец.</p></sp>
+<sp who="#makar"><speaker>Макар <stage>(обнял сына)</stage>.</speaker> <p>Хорошо, скажу. Видишь эту яблоню, хорошая, а?</p></sp>
+<sp who="#artem"><speaker>Артем.</speaker> <p>Да, я всю войну ее вспоминал.</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Давно я ее посадил, чтобы место отметить. Здесь зимой, в пургу, после боя, стояли член Реввоенсовета товарищ Сталин и наш земляк Клим Ворошилов и вели разговор с шахтерами. Спросил товарищ Сталин шахтеров: «Кому принадлежала эта шахта?» — «Англичанину». — «А эта?» — «Французу». — «А эта?» — «Немцу». — «А эта?» — вон на Нашу показал. — «Тоже англичанину». Задумался товарищ Сталин, смотрят шахтеры на него, стало тихо, только ветер звенит. Поднял голову товарищ Сталин, улыбнулся и сказал: «Теперь вы, шахтеры, навеки хозяева своих шахт, поднимайте шахты, уголь нужен, как победа над белыми», и я остался. Пришла весна, посадил я эту яблоню, и мы тогда впервые зажгли звезду над нашей шахтой. Видишь, вон она наша звезда горит?</p></sp>
+    <stage>В глубине сцены зажглась звезда.</stage>
+<sp who="#artem"><speaker>Артем.</speaker> <p>Вижу, отец. Вижу. <stage>(Поцеловал его.)</stage></p></sp>
+    <stage>ЗАНАВЕС</stage>
+</div>
+<div type="act">
+<head>ДЕЙСТВИЕ ВТОРОЕ</head>
+<div type="scene">
+<head>КАРТИНА ПЕРВАЯ</head>
+    <stage>Большая комната. На стенах — пейзажи Донбасса, портреты Ольги и Павла. Стулья и кресла в белых чехлах. Возле дивана — столик, на нем несколько пузырьков с лекарствами, графин, папиросы, пепельница, телефон. На диване лежит Павел. Около стены на столике — макет шахты.</stage>
+<sp who="#pavel"><speaker>Павел <stage>(говорит по телефону)</stage>.</speaker> <p>Лежу, Сергей Сергеевич. Лежу шестой день. Лечусь, режим. Так осточертело! Да что врачи, когда сердце сдало. Этот месяц для меня был просто сумасшедшим. А? Кисловодск? Еду. Путевку получил. Вечером еду... Да читал сегодня, как же. Опередил ты нас всех, опередил. От души поздравляю. А? Догнать. Мы люди темные, нам лишь бы план. <stage>(Смеется.)</stage> Я вылез, вылез. Начинаю план давать. Спасибо. Тебя не догонишь. Что? Макар Иванович... Да он со своими стариками с шахты не вылазит. Хлопот с ними много. Да, въедливые старики. Ольга не едет, у нее съезд врачей. Спасибо, передам. Будь здоров. <stage>(Положил трубку.)</stage></p>
+    <stage>Входит Стеша.</stage>
+    <p>Стеша, принеси воды, я лекарство приму. Кондрат пришел?</p></sp>
+<sp who="#stesha"><speaker>Стеша.</speaker> <p>Нет. Там пришел завстоловой Филипп Тимофеевич Семененко. Спрашивает, можно ли войти.</p></sp>
+    <sp who="#pavel"><speaker>Павел.</speaker> <p>Пусть войдет.</p></sp>
+    <stage>Стеша взяла графин и ушла. Входит Филипп Семененко. На лысине у него пластыри, вносит ящик.</stage>
+<sp who="#filipp"><speaker>Филипп.</speaker> <p>Как ваше драгоценнейшее, Павел Сафронович? Павел. Что?</p></sp>
+<sp who="#filipp"><speaker>Филипп.</speaker> <p>Здоровьечко.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Ты же сегодня пять раз спрашивал меня. Что притащил?</p></sp>
+<sp who="#filipp"><speaker>Филипп.</speaker> <p>В далекий путь-дорогу.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Что там?</p></sp>
+<sp who="#filipp"><speaker>Филипп.</speaker> <p>Что у нас можно достать? Трафарет, трафарет.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>А все-таки?</p></sp>
+<sp who="#filipp"><speaker>Филипп.</speaker> <p>Колбаса, семга, икорка. Трафарет. Весь город обыскал, а такой натуральной мелочи, как коньяк пять звездочек, нет.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>На кой он мне чорт! Я его терпеть не могу. И вообще мне запрещено.</p></sp>
+<sp who="#filipp"><speaker>Филипп.</speaker> <p>Сердце, сердце...</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Ну, положи там, на всякий случай, литр водки. Может, кто-нибудь в дороге в купе зайдет.</p></sp>
+<sp who="#filipp"><speaker>Филипп.</speaker> <p>Есть, есть. Так хотел достать коньяк! Все-таки будете ехать в международном, а там всегда один, а то и два министра, три-четыре генерала, слово за слово, не с водки же начинать записывать пульку с такими людьми.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Я с министрами встречался. Пьют водку так же, как и мы. Вот что, ты бы красного перцу...</p></sp>
+<sp who="#filipp"><speaker>Филипп.</speaker> <p>Только подумали, а мы вот. <stage>(Вынимает бутылку, в которой стручок красного перца.)</stage></p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Как это умудрился?</p></sp>
+<sp who="#filipp"><speaker>Филипп.</speaker> <p>Секрет.</p></sp>
+    <stage>Входит Стеша, ставит графин с водой. Вышла.</stage>
+<sp who="#pavel"><speaker>Павел <stage>(взял бутылочку с лекарством)</stage>.</speaker> <p>Нужно лекарство принять, налей в стопку воды.</p></sp>
+<sp who="#filipp"><speaker>Филипп <stage>(взял стопку)</stage>.</speaker> <p>Павел Сафронович, Павел Сафронович...</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Что с тобой?</p></sp>
+<sp who="#filipp"><speaker>Филипп.</speaker> <p>Карайте, но не могу исполнить вашего приказания. В такую святую посуду — лить простую воду. Разрешите?</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Врачи запретили.</p></sp>
+<sp who="#filipp"><speaker>Филипп <stage>(прячет в ящик водку)</stage>.</speaker> <p>Сердце... сердце... <stage>(Наливает воду.)</stage> Жаль.</p></sp>
+<sp who="#pavel"><speaker>Павел <stage>(принял лекарство)</stage>.</speaker> <p>Что нового?</p></sp>
+<sp who="#filipp"><speaker>Филипп.</speaker> <p>Вчера слушал по радио «Голос Америки». Серьезные дела творятся в мире, Павел Сафронович. И какие неприятные! Мы здесь все добыча, добыча, а как послушаешь...</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>А зачем ты их слушаешь? Врут, ищут дураков, а они у нас перевелись. Или ты в дураки записался?</p></sp>
+<sp who="#filipp"><speaker>Филипп.</speaker> <p>Правда, правда. Врут, очень врут. Но для кругозора послушать следует. Что ни говорите, а живем мы — день ото дня не отличишь. Добыча, добыча, трафарет.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Трафарет, говоришь?</p></sp>
+<sp who="#filipp"><speaker>Филипп.</speaker> <p>Трафарет.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>А вчера, Семененко?</p></sp>
+<sp who="#filipp"><speaker>Филипп.</speaker> <p>Что?</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Моя теща, Оксана Андреевна, говорят...</p></sp>
+<sp who="#filipp"><speaker>Филипп.</speaker> <p>Правда, правда.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Как это случилось?</p></sp>
+<sp who="#filipp"><speaker>Филипп.</speaker> <p>Зашел я в столовую — порядок, шахтеры обедают, только в углу ваша теща что-то громко говорит. Я подошел. А она: «Вот кто таким борщом кормит шахтеров». Я, помня, что Оксана Андреевна ваша теща, ответил ей вежливо: «Не нравится вам наш шахтерский борщ — готовьте дома». Ну что здесь такого я сказал?</p></sp>
+<sp who="#pavel"><speaker>Павел <stage>(сдерживая смех)</stage>.</speaker> <p>А она?</p></sp>
+<sp who="#filipp"><speaker>Филипп.</speaker> <p>Тарелкой мне по голове — раз, тарелка вдребезги. Видите? <stage>(Показал на голову.)</stage></p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Ну, а шахтеры, шахтеры что?</p></sp>
+<sp who="#filipp"><speaker>Филипп.</speaker> <p>Не дали мне и слова сказать. Я жертва наших трудностей, жертва.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Трудности трудностями, а жалоб на тебя много. Почему у соседей прилично кормят? Почему ты сидишь? Поехал бы в колхоз — с неба продукты не падают. Я тебя предупреждаю: душу вытрясу, надоело мне жалобы слушать.</p></sp>
+<sp who="#filipp"><speaker>Филипп.</speaker> <p>Не волнуйтесь, берегите сердце.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Ты бы хоть раз в шахту спустился и увидел бы, как работает шахтер.</p></sp>
+<sp who="#filipp"><speaker>Филипп.</speaker> <p>Разобьюсь, все, что в моих силах, сделаю.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Предупреждаю в последний раз: еще одна жалоба — и выгоню.</p>
+    <stage>Звонит телефон.</stage>
+    <p><stage>(Берет трубку.)</stage> Слушаю. Когда? Давайте сейчас, заходите. <stage>(Положил трубку.)</stage> Макар Иванович со своей гвардией.</p></sp>
+<sp who="#filipp"><speaker>Филипп.</speaker> <p>Без вас не могут. Как у нас не оберегают руководящие кадры!</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Как с билетом на поезд?</p></sp>
+<sp who="#filipp"><speaker>Филипп.</speaker> <p>Будет, через час обещали выдать.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Международный?</p></sp>
+<sp who="#filipp"><speaker>Филипп.</speaker> <p>Разобьюсь, а будет. Разрешите на вокзал?</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Дуй.</p></sp>
+<sp who="#filipp"><speaker>Филипп.</speaker> <p>Сердце, берегите сердце. <stage>(Оставил ящик и ушел.)</stage></p></sp>
+    <stage>Незаметно входит Кондрат.</stage>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>Здравствуйте, Павел Сафронович.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Здорово, Кондрат Карпович, садись. Отдыхаешь сегодня?</p></sp>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>Отдыхаю.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Ну и костюм же у тебя, хороший!</p></sp>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>В прошлом году пошил.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Ты в нем просто как жених. Не влюбился ли? Кондрат. Нет.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Что-то не верится.</p></sp>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>Любить можно только раз, Павел Сафронович.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Ну это неверно. Жена умерла, чего ж тебе ходить одному?</p></sp>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>Я привык, давно один хожу...</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>А знаешь, для чего я тебя вызвал?</p></sp>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>Нет.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Вспомнил я, что ты когда-то неплохо играл на баяне и пел.</p></sp>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>Был такой грех. <stage>(Улыбнулся.)</stage></p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Принесли мне один баян. Продают. Я хочу, чтобы ты посмотрел, стоит ли его купить. <stage>(Идет в другую комнату и выносит баян, подает Кондрату.)</stage></p>
+    <stage>Кондрат осмотрел, пробует.</stage>
+    <p>Как?</p></sp>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>Хороший, очень хороший. Новый.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Стоит покупать?</p></sp>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>Если бы мне такой случай, купил бы сразу. Сколько просят?</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Не в деньгах дело.</p></sp>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>Повезло вам, повезло: такой инструмент случился. <stage>(Играет.)</stage> Как звучит!</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Рад, что тебе нравится.</p></sp>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>Может, не сторгуетесь, так...</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Ты бы взял?</p></sp>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>Глазом не моргнул бы.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Так бери.</p></sp>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>Как?</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Для тебя купил. Премия тебе за этот месяц. Хорошо уголь рубил. Дай руку.</p></sp>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>Павел Сафронович, я...</p></sp>
+<sp who="#pavel"><speaker>Павел <stage>(перебивает)</stage>.</speaker> <p>Играй, играй, говорить ничего не нужно. Вывез ты нас, вывез.</p></sp>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>Это ж не я, а Макар Иванович, бригадир наш, так дело организовал.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Макару Ивановичу я вынес благодарность в приказе.</p></sp>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>Спасибо, ай спасибо! Хочу тебе, Павел Сафронович, открыть одну свою мечту.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Какую?</p></sp>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>Думаю выполнить свой пятилетний план за полтора года. Макар Иванович обещал так организовать работу в нашей бригаде, чтоб моя мечта сбылась.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Хочешь рекорд дать?</p></sp>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>План хочу дать. Завтра на партийном собрании дам слово коммуниста.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Что ж, давай руку, это хорошее дело.</p></sp>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>Не подведу, Павел Сафронович.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Верю. <stage>(Пауза.)</stage> Смотрю я на тебя, Кондрат, и вспоминаю нашу молодость. Помнишь, как мы коногонами работали, а? В старых шахтах, без машин, шахтеры обушком долбят. А какие были шахтеры — богатыри, богатыри. Ваську Громова и его друга Зубцова помнишь?</p></sp>
+    <sp who="#kondrat"><speaker>Кондрат.</speaker> <p>Да, таких не забудешь.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Гуляют день, гуляют два, а потом как рванут, только успевай возить.</p></sp>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>И лошадка же у вас была — Орлик.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Орлик, Орлик.</p></sp>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>Летали же вы на нем...</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Бешено ездил. Это правда. Дни молодости не забыл, Кондрат? <stage>(Начинает тихо петь.)</stage></p></sp>
+    <stage>Кондрат играет и тоже поет.</stage>
+    <stage>Павел умолк, слушает, как Кондрат играет и поет песню про коногона.</stage>
+    <sp who="kondrat">
+    <lg>
+    <l>Вот лошадь мчится по продольной.</l>
+    <l>По темной, узкой и сырой,</l>
+    <l>А коногона молодого</l> 
+    <l>Предупреждает тормозной.</l>
+    <l>Ах, тише, тише, ради бога,</l>
+    <l>Ведь здесь и там большой уклон,</l>
+    <l>На повороте путь разрушен,</l>
+    <l>С толчка забурится вагон.</l>
+    <l>И вдруг вагончик забурился,</l>
+    <l>Беднягу к парам он прижал,</l>
+    <l>И к коногону молодому</l> 
+    <l>Друзей на помощь кто-то звал.</l>
+    <l>Через минуту над вагоном</l> 
+    <l>Уже стоял народ толпой,</l> 
+    <l>А коногона к шахтной клети</l> 
+    <l>Несли с разбитой головой.</l>
+    <l>Прощай навеки, коренная,</l>
+    <l>Мне не увидеться с тобой.</l>
+    <l>Прощай, Маруся ламповая,</l>
+<l>И ты, товарищ стволовой.</l>
+    </lg>
+    </sp>
+    <stage>Кондрат закончил песню. Долгая пауза.</stage>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>Что с тобой, Павел?</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Сердце немного... нервы разошлись...</p></sp>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>Беречься нужно.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Пройдет. <stage>(Вынул из ящика бутылку, закуску, наливает Кондрату стопку водки.)</stage> Бери, Кондрат, за нашу молодость.</p></sp>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>А вы?</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Нельзя мне, сердце. Ну, по такому случаю, пожалуй, немного. <stage>(Берет стопку, наливает.)</stage> Будь здоров, дружище!</p>
+    <stage>Выпиши, закусывают.</stage>
+    <p>А ты знаешь, легче стало. Легче. Давай повторим. <stage>(Наливает.)</stage></p></sp>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>Твое здоровье.</p></sp>
+    <stage>Пьют.</stage>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Определенно легче.</p>
+    <stage>Закуривают.</stage>
+    <p>Эх. Кондрат, дружище, ты представить не можешь, как бы я хотел быть сейчас на твоем месте. Бросить все, пойти в забой.</p></sp>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>Что ты, Павел, столько учился!</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Учился, но как мы только учились! Окончить не дали, а теперь доучиваться поздно. Да и понял я: одной наукой не возьмешь. Есть у нас такие инженеры, нормально учились, а чего они стоят? Ни характера, ни силы. Поверишь, никто не знает: бывает так трудно мне сейчас, за всех работаю и отвечаю один за всех.</p></sp>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>Самое тяжелое уже позади. Начали план давать, становимся на ноги.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Только начали, не успели вылезть, а сегодня уже сообщили — план нам увеличивается.</p></sp>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>Увеличили?</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>И насколько увеличили! Вот почитай. <stage>(Подает бумажку.)</stage></p>
+    <stage>Кондрат прочитал, улыбнулся.</stage>
+    <p>Чего ты улыбаешься?</p></sp>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>Не дают дремать, не дают. Все вперед и вперед.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>А с кем вперед? С кем итти? Если бы у меня было таких, как ты, хотя бы десяток.</p></sp>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>Так работать, как я, у нас могут почти все. Прости, нет у нас порядка. Штурмуем, шахту гробим.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>А почему это так?</p></sp>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>Тебе виднее.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Э, нет, начал, так говори прямо.</p></sp>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>Нет хозяйской руки, администрация виновата.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Это значит — в первую очередь я?</p></sp>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>Так выходит.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>А шахтеры? Шахтеры святые? Ни в чем не виноваты?</p>
+    <stage>Кондрат молчит.</stage>
+    <p>Чего молчишь?</p></sp>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>Думаю.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>О чем же ты думаешь?</p></sp>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>Думаю, на рабочих вину сваливает только тот, кто не руководит делом, как нужно.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Кем же на Звезде руководить? Разве у нас рабочие — шахтеры? Где ты их видел? Настоящих шахтеров по пальцам можно перечесть, а то все...</p></sp>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>Что?</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>В Донбасс теперь понаехали только те, которые нигде не могли устроиться. Какая с них работа? А завербованные сельские девушки да парни только и думают, как бы домой возвратиться. Ты что, с неба упал?</p></sp>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>Никогда на небо не влазил. Мое дело под землей, но считаю: таких шахтеров, как сейчас у нас, еще никогда не было. На Звезде все грамотные, сельские девушки и парни по семь классов имеют. Нужно только организовать их как следует.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Грамотные, а добыча где? Чего молчишь? Я спрашиваю, где добыча, чорт возьми! Молчишь?! <stage>(Ударил кулаком по столу.)</stage></p></sp>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>Не кричи, я не из пугливых.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Я не о тебе, ты не в счет. Пойми, надоело мне выговоры получать, надоело, к чорту! Я теперь начну так жать всех, что масло потечет. Хватит разговоров, довольно! <stage>(Пауза.)</stage> Чего молчишь?</p></sp>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>Думаю.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Ты не верти, а отвечай.</p></sp>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>Не поймешь.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Не пойму?</p></sp>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>Да.</p></sp>
+    <sp who="#pavel"><speaker>Павел.</speaker> <p>Очень грамотные все вы стали для себя, а уголь пусть начальник шахты дает?! Не выйдет.</p></sp>
+    <stage>Звонок телефона.</stage>
+<p><stage>(Повернулся, взял трубку.)</stage> Ну... Да не спеши. Да где я тебе, из кармана лес возьму? Да не болтай. Выкрутишься, выкрутишься...</p>
+    <stage>Кондрат незаметно вышел.</stage>
+<p>Утром лес будет, без паники, знать ничего не хочу. Кто виноват? Не твоего носа дело. <stage>(Положил трубку, повернулся, увидел, что Кондрата нет, крикнул Стешу.)</stage></p>
+    <stage>Входит Стеша.</stage>
+<sp who="#stesha"><speaker>Стеша.</speaker> <p>Что, Павел Сафронович?</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Где Кондрат?</p></sp>
+<sp who="#stesha"><speaker>Стеша.</speaker> <p>Ушел.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Иди.</p>
+    <stage>Стеша вышла.</stage>
+<p>Павел взял баян, наигрывает, бросил его на диван.</p>
+    <stage>Входит Стеша.</stage>
+    <p>Вернулся?</p></sp>
+<sp who="#stesha"><speaker>Стеша.</speaker> <p>Нет. Пришел Макар Иванович, а с ним три деда. Поговорите с ними на кухне, а то они только из шахты вылезли.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Шахтеров принимать на кухне? Зови их. <stage>(Открыл дверь, зовет.)</stage> Прошу, входите, входите.</p></sp>
+    <stage>Стеша выходит. Входит Макар Иванович, с ним старые шахтеры Орлов, Зинченко, Хмара.</stage>
+<sp who="#shahtery"><speaker>Шахтеры.</speaker> <p>Здорово, Павел Сафронович.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Здравствуйте. <stage>(Подает руку.)</stage></p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Как здоровье?</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Неважно. Садитесь.</p></sp>
+<sp who="#shahtery"><speaker>Шахтеры.</speaker> <p>Мы с шахты только что. Все черные, постоим. Спешили, ведь вы едете.</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Ничего, ребята постоят.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Садись, шахтеры, садись, иначе разговаривать не буду.</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Садись, ребята.</p></sp>
+    <stage>Все сели.</stage>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Курите. <stage>(Угощает.)</stage> Ну, Макар Иванович, начинай, я слушаю.</p></sp>
+    <stage>Макар встал.</stage>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Да сиди.</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Мне так удобнее. <stage>(Вынимает очки, записную книжку. Шахтеры делают то же.)</stage> Мы задумали большое дело...</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Выкладывайте, что еще за Америку открыли?</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Америку открывать мы не собираемся. Да и стоит ли нынешнюю Америку открывать? Сейчас мы тебе все по порядку. Разреши Никифору Петровичу Орлову дать слово.</p></sp>
+<sp who="#orlov"><speaker>Орлов <stage>(посмотрел в книжечку)</stage>.</speaker> <p>Меня послал Макар Иванович на шахту Чигари, чтобы я присмотрелся и в точности понял, как работает забойщик Евгений Никитович Пастухов. Приехал я к нему и говорю: «Евгений Никитич, слышали мы о вас и приняли решение познакомиться. Привет вам сердечный от всех шахтеров нашей Звезды... Привет также вашей жене...»</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Вы, молодой человек, к делу ближе.</p></sp>
+<sp who="#orlov"><speaker>Орлов.</speaker> <p>Слушаю, Макар Иванович. Три дня я провел с Евгением Никитичем. Тридцать три года я проработал на шахтах, но такого не видел. Евгений Никитич использовал давление породы на пласт угля. Давление миллионов тонн. Природу Евгений Никитич заставил работать на пятилетку. За полтора года Пастухов выполнил пятилетнее задание. Вот вам и Америка, Павел Сафронович. Пусть она хорошенько умоется перед Евгением Никитичем Пастуховым. Здесь у меня про метод Евгения Никитича исписана целая книжечка.</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Садитесь, Никифор Петрович, садитесь. Иван Иванович Хмара.</p></sp>
+<sp who="#hmara"><speaker>Хмара.</speaker> <p>Я коротко. Макар Иванович послали меня к молодому забойщику Пантелею Дмитриевичу Рындину. Шахта номер девять имени Артема. Передал я ему привет от всех наших. Поначалу мы выпили, кажись литр, хотя нет, нас было пятеро: Рындин, его ученики, люди молодые, веселые, грамотные, по-настоящему грамотные. О деле говорят так, что не только нам, старикам, но и многим инженерам у них поучиться можно.</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Рассказывай, парень, о деле.</p></sp>
+<sp who="#hmara"><speaker>Хмара.</speaker> <p>Я коротко. Выпили мы прилично, даже хорошо, а на другой день пошел я с Пантелеем Дмитриевичем в шахту. В чем метод Рындина?</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Я слышал о его методе.</p></sp>
+<sp who="#hmara"><speaker>Хмара.</speaker> <p>Тогда я коротко. Рындин за одну смену при мне сделал полный цикл по всей лаве и вырубил сто двадцать шесть тонн при норме восемь и две десятых. Все у меня здесь описано.</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Вот если бы все так грамотно брали уголь, то мы бы через несколько лет в коммунизме были.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Коммунизм — это будущее, а нам бы план выдержать. Только вылезли. Удержаться — вот что главное сейчас.</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Не согласен. Коммунизм — это дело нашего поколения, нашего. Ты не улыбайся. Мы старики, а думаем жить еще не меньше пятнадцати, а то и двадцати лет. Так, Хмара?</p></sp>
+<sp who="#hmara"><speaker>Хмара.</speaker> <p>Обязательно проживем, а если одно лекарство станет подешевле, то я лично ручаюсь за двадцать пять. Нужно, чтобы все учились у наших знаменитых стахановцев и не отставали бы от них.</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Так вот, Павел, возьмись за это твердой рукой, а мои ребята тебе помогут.</p></sp>
+<sp who="#zinchenko"><speaker>Зинченко.</speaker> <p>Мы готовы не вылезать из шахты.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Что же вы предлагаете?</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Организовать обучение молодежи.</p></sp>
+<sp who="#hmara"><speaker>Хмара.</speaker> <p>Чтобы все как один грамотно брали уголь.</p></sp>
+<sp who="#zinchenko"><speaker>Зинченко.</speaker> <p>Вот задача.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Когда учить? Уголь давать надо. Что у меня, академия?</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Нужно учить и работать.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Ну, если вы все так понимаете, а я сумасшедший, ни черта не смыслю, пожалуйста, садитесь на мое место и командуйте. Кто из вас желает — прошу.</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Ты, Павел, не обижайся.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Я ничего не смыслю...</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Ты понимаешь, ты хорошо понимаешь, но делаешь не так, как надо. А мы тебя заставим.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Кто это мы?</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Коммунисты шахты.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Все? Будьте здоровы.</p></sp>
+<sp who="#hmara"><speaker>Хмара.</speaker> <p>Вот сегодня на партбюро мы там все выложим.</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Ты подумай.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Хорошо, подумаю.</p></sp>
+<sp who="#zinchenko"><speaker>Зинченко.</speaker> <p>У Тараса Шевченко есть хорошие слова: «Думы, мои думы, горе мине с вами».</p></sp>
+    <stage>Старики ушли. Входит Стеша.</stage>
+<sp who="#stesha"><speaker>Стеша.</speaker> <p>Какие рубахи вам положить в дорогу?</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Что? <stage>(Сел за стол, рассматривает бумаги, пишет.)</stage></p></sp>
+<sp who="#stesha"><speaker>Стеша.</speaker> <p>Какие рубахи положить? Скоро поезд.</p></sp>
+    <stage>Входит Ольга.</stage>
+<sp who="#stesha"><speaker>Стеша.</speaker> <p>Хорошо, что пришли, Ольга Макаровна. Какие рубахи положить в дорогу?</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Идите, Стеша, я сама положу.</p>
+    <stage>Стеша уходят.</stage>
+    <p>Прости, Павел, никак не могла раньше вырваться.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Почему? У тебя ведь перерыв на съезде с четырех, а сейчас шесть.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Да, но группа хирургов захотела осмотреть мою клинику. Я им показывала. Да, ты едешь, тебя нужно в дорогу собрать. <stage>(Открыла ящик, вынула рубахи.)</stage> Йот Стеша, всегда забывает пуговицы пришить. <stage>(Берет иголку, пуговицу.)</stage> Думала, двадцать минут посидят, — полтора часа пробыли. Сколько вопросов задали! Никогда не имела такого экзамена. А потом... Вот это для тебя принесла. <stage>(Подает журнал.)</stage></p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Что это?</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Журнал клиники. Прочитай, что написал профессор Торченко. Вот здесь прочитай, как он оценивает нашу работу. Если б ты его видел, сердитый дед. <stage>(Показала, вновь взяла рубаху, пришивает пуговицу.)</stage></p>
+    <stage>Павел молча читает.</stage>
+    <p>Будет ли еще в моей жизни такой праздник? Ой, нет... <stage>(Закрыла глаза.)</stage></p></sp>
+<sp who="#pavel"><speaker>Павел <stage>(бросил на стол журнал)</stage>.</speaker> <p>Хорошо написал профессор. Поздравляю, Ольга. У меня скоро партбюро, а там и поезд. Собирай чемодан. Ольга, ты что, уснула? Чемодан собирай.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Нет, я не сплю. Ты что-то сказал?</p></sp>
+    <sp who="#pavel"><speaker>Павел.</speaker> <p>Что ты стоишь, собирай чемодан.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Я сейчас. Сейчас соберу тебе все в дорогу. Ты хочешь что-то сказать?</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Не забудь положить мне ночные туфли.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Хорошо, положу. Еще что?</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Смотри сама, на месяц еду. Надеюсь, ты меня проводишь?</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>К сожалению, не могу. На вечернем заседании мой доклад стоит первым.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Скажи, чтобы перенесли на завтра.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Это делать неудобно. Порядок заседания принят.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Выходит... Ну, как знаешь. Просить не буду. Меня проводят друзья.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>А разве они с тобой не едут?</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Кто?</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Твои друзья. </p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Нет.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Жаль.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Почему?</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Ты так к ним привык, почти каждый вечер после работы с ними.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>А с кем же мне быть? Что они, плохие люди?</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Я этого не говорю, но уж больно веселые.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Лучше с веселым потерять, чем со скучным найти.</p></sp>
+<sp who="#olga"><speaker>Ольга <stage>(укладывает вещи в чемодан)</stage>.</speaker> <p>Этот галстук тоже положить?</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Положи.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Я хотела бы, чтобы ты просмотрел мой доклад. Только две последние главы.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Я в медицине не разбираюсь.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Там говорится о твоей шахте.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>О Звезде?</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Да.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Ты что же, ее лечить собираешься? <stage>(Улыбнулся.)</stage></p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Прочитай, Павел, хотя бы эту главу.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Нет времени, готовлюсь, у меня партбюро.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Я тебя прошу.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Расскажи коротко, что там.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Коротко... Ну, хорошо. <stage>(Раскрыла доклад.)</stage> Я показываю, что на шахте Глубокой почти нет несчастных случаев. Почему? Там высокая социалистическая культура труда уничтожила их. За год процент травмированных на Глубокой очень низкий.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>А что о Звезде говоришь?</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Павел, мне трудно было найти другую такую шахту, как твоя. Ты пойми меня как следует. Перед наукой надо быть честным.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Говори, говори...</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>За этот год у тебя техника использовалась плохо. Рывки, штурмы дали такие цифры. Травматизм серьезный. Вот как идет кривая. Посмотри: вот это Глубокая, а вот это Звезда. Моя клиника зарегистрировала на протяжении года...</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Для чего ты это делаешь?</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Для того, чтобы показать, что там, где техника использована полностью, где механизмы работают на полную мощность, уничтожается самое большое зло в горном деле — травматизм, увечье, инвалидность. У тебя же, Павел...</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Довольно. <stage>(Ходит по комнате.)</stage></p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Я с тобой, Павел, об этом не раз говорила. Я понимаю, тебе трудно, но если бы ты знал, что мне приходится выслушивать от рабочих по твоему адресу, когда я им оказываю помощь!</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Ты знаешь, что значит сейчас дать уголь государству? Это бой, это фронт.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Знаю.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>А в бою все остаются целы?</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>В шахте все должны быть целыми и здоровыми. За здоровье шахтеров отвечаешь ты.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>На кой чорт вы тогда нужны?</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Мне стыдно смотреть в глаза тем, кто страдает от твоей безответственности.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Что?</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>И отсталости.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Ну что ж, иди, только ты думала над тем, как нам дальше жить?</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Думала, и больше тебя.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Что же ты решила?</p>
+    <stage>Ольга молчит.</stage>
+    <p>Говори.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Не спеши, я скажу... Все скажу, Павел.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Чего ты от меня хочешь?</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Теперь только одного. Отвечай за здоровье рабочего в шахте. Не имеешь права на это закрывать глаза. <stage>(Показала на свой доклад.)</stage> Тебе никто этого не простит. <stage>(Надела плащ, берет журнал, и доклад.)</stage></p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Идешь меня позорить, топтать в грязь.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Честь врача — моя профессиональная честь... Павел. А моя честь — что для тебя?</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Я не могу молчать, не могу итти против совести, не могу...</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Что ж, иди, твой отец сейчас на партбюро будет меня крыть, а ты там — здорово получается! Желаю вашей семейке успеха. Иди!</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Знаешь, Павел...</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Что?</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Не надо нам жить вместе. Не надо, просто нельзя... <stage>(Ушла.)</stage></p></sp>
+    <sp who="#pavel"><speaker>Павел <stage>(в дверь)</stage>.</speaker> <p>Ольга! Оля... <stage>(Опустился на чемодан.)</stage> Стук в дверь. Павел не отвечает. Входят Гаврила и Трофим.</p></sp>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>Простите, что мы к вам, Павел. Сафронович, пришли на квартиру. Сказали нам, что вы дома и сегодня едете...</p></sp>
+<sp who="#trofim"><speaker>Трофим.</speaker> <p>Мы решили зайти.</p></sp>
+    <stage>Павел молчит.</stage>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>Я Гаврила Гаврилович Братченко, а это мои напарник — Трофим Александрович Голуб. Мы с шахты Глубокой.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Что вам нужно?</p></sp>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>Решили перейти на вашу шахту.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Кто?</p></sp>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>Мы.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Что вы там натворили, что удираете с Глубокой?</p></sp>
+<sp who="#trofim"><speaker>Трофим.</speaker> <p>Ничего не натворили.</p></sp>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>И удирать не в нашем характере.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Не врите. Бы думаете, я вас не знаю?</p></sp>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>Нас знает весь Донбасс.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Говорите правду.</p></sp>
+<sp who="#trofim"><speaker>Трофим.</speaker> <p>Мы и говорим. Гаврила и я пришли в райком комсомола и попросили, чтобы нам помогли перейти на Звезду.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Для чего?</p></sp>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>Показать у вас класс работы.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>И Сергей Сергеевич отпустил?</p></sp>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>Не хотел, но секретарь райкома уговорил.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>А вы знаете, что сейчас на Звезде вы не сможете зарабатывать столько, сколько на Глубокой?</p></sp>
+<sp who="#trofim"><speaker>Трофим.</speaker> <p>Это еще увидим.</p></sp>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>Нас сейчас не деньги интересуют.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>А что же?</p></sp>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>Картина...</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Какая картина?</p></sp>
+<sp who="#trofim"><speaker>Трофим.</speaker> <p>Шахта ваша отстает.</p></sp>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>Нужно, чтобы она не портила всю картину Донбасса.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Вы что же, художниками стали?</p></sp>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>Мы и есть художники своего дела.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Что ж, хорошо. Спускайтесь завтра в шахту, рисуйте.</p></sp>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>Да, нарисуем.</p></sp>
+<sp who="#trofim"><speaker>Трофим.</speaker> <p>Товарищ начальник, вы не беспокойтесь, мы вас не подведем.</p></sp>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>Вот наше заявление. Пошли. Передайте привет Ольге Макаровне.</p></sp>
+    <stage>Ушли. Входит Стеша.</stage>
+<sp who="#stesha"><speaker>Стеша.</speaker> <p>Семененко билет на поезд передал.</p>
+    <stage>Павел взял билет, разорвал его и бросил.</stage>
+    <p>Что вы, Павел Сафронович!</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Я никуда не поеду, Стеша.</p></sp>
+    <stage>ЗАНАВЕС</stage>
+</div>
+<div type="scene">
+<head>КАРТИНА ВТОРАЯ</head>
+    <stage>Место действия то же, что и в первом акте, только осень осыпала золотом сад. Из глубины сада слышна песня. Это поют Галя, Марфа, Гаврила и Трофим. С улицы входит Кондрат. Ой усталый. Подошел к окну, тихо позвал: «Анка, Анка!..» Ему никто не отвечает. Кондрат подошел к веранде, сел на ступеньку. Из дома выходит Ольга. Увидела Кондрата, подошла, села около него.</stage>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Нет Анки?</p></sp>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>Нет. Третий день ищу. Где ни ходил, всех переспросил, — никто ее не видел.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>А в старой шахте был?</p></sp>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>Был. Прошел немного, но дальше итти не смог. Может завалить. Боюсь я... Все она книги о всяких путешествиях читала. Не прыгнула ли в поезд?</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Если даже так, поездит еще два-три дня и возвратится.</p></sp>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>А если нет?</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Не может быть, чтобы Анка навсегда тебя оставила. Пойдем, я дам тебе чего-нибудь поесть.</p></sp>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>Спасибо, Ольга, не хочу.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Нельзя так, пойдем...</p></sp>
+<sp who="#kondrat"><speaker>Кондрат <stage>(встал)</stage>.</speaker> <p>Макар Иванович дома?</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Нет, куда-то ушел.</p></sp>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>Нужно в Москву ехать, как мне теперь быть?</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Зачем вас министр вызывает?</p></sp>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>В телеграмме сказано: выехать мне и Макару Ивановичу. Вот и все.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Поезжай спокойно, можешь не беспокоиться. Анка найдется. Мы ее к себе возьмем.</p></sp>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>Уже осень. Лист как будто из золота.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Да. А георгины еще держатся. Смотри, какие они пышные в этом году! <stage>(Ломает несколько георгинов, идет в дом.)</stage></p></sp>
+    <stage>Входят Макар Иванович, Хмара, Орлов, Зинченко.</stage>
+    <sp who="#makar"><speaker>Макар <stage>(издали)</stage>.</speaker> <p>Кондрат!</p>
+    <stage>Кондрат не отвечает.</stage>
+    <p>Кондрат!</p></sp>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>Что, Макар Иванович?</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Анку нашел?</p></sp>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>Нет.</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>И где она бродит?</p></sp>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>Не знаю. <stage>(Ушел.)</stage></p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Надо посоветоваться перед отъездом.</p></sp>
+    <stage>Все садятся на ступенях веранды.</stage>
+<sp who="#zinchenko"><speaker>Зинченко.</speaker> <p>Интересно, как докладывать придется вам министру: при людях или одному?</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Раз вызывают меня и Кондрата, значит, немало съедется таких, как мы.</p></sp>
+<sp who="#orlov"><speaker>Орлов.</speaker> <p>Трудно будет вам, Макар Иванович. Дадут минут девять, что тогда? Пока прокашляешься, пока разойдешься...</p></sp>
+<sp who="#hmara"><speaker>Хмара.</speaker> <p>А ему Кондрат своих десять отдаст, а за двадцать минут можно и прокашляться и наговориться.</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>И за десять можно, коль есть что сказать, а если в голове туман, то и два часа не помогут.</p></sp>
+<sp who="#zinchenko"><speaker>Зинченко.</speaker> <p>Справедливо. Но столько у нас вопросов, нужно хорошо использовать этот случай. Если добьетесь половины того, что мы вам подали...</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Много понаписали. <stage>(Раскрывает папку.)</stage> Меня мучает одно, для чего нас вызывают? В телеграмме — выехать на совещание, и все. А чего от нас ждут?</p></sp>
+<sp who="#zinchenko"><speaker>Зинченко.</speaker> <p>Послушать хотят, как работала наша Звезда, как теперь работает и что нам нужно. Вот на последнее и налегайте.</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Все это так, но представьте себе: нас всех вызвал наш министр на заседание. В зале полно народу, съехались шахтеры, инженеры со всех концов Советского союза. Министр встает. <stage>(Встал.)</stage> Что ж, товарищи, послушаем донбассовцев. Возражений нет? Нет. А ну, товарищ Орлов, вы на какой шахте работаете?</p></sp>
+<sp who="#orlov"><speaker>Орлов.</speaker> <p>На Звезде, товарищ министр.</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>А как работает ваша шахта? </p></sp>
+<sp who="#orlov"><speaker>Орлов.</speaker> <p>План даём...</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Это не доблесть, это ваш священный долг.</p></sp>
+<sp who="#zinchenko"><speaker>Зинченко.</speaker> <p>Мы начали уже понемногу сверх плана добычу давать.</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Понемногу? Чем вы хвалитесь? У нас сотни шахт дают сверх плана и не понемногу. Вы слыхали, что Пастухов, ваш донбассовец, выполнил за полтора года пятилетний план. Слышали?</p></sp>
+<sp who="#zinchenko"><speaker>Зинченко.</speaker> <p>Слышали, товарищ министр.</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>А у вас что же делается?</p></sp>
+<sp who="#hmara"><speaker>Хмара.</speaker> <p>У нас Кондрат Тополя по примеру Пастухова уже дает добычу за третий год пятилетки.</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>А не может ли вся Звезда итти так, как Пастухов и Тополя? Почему замолчали?</p></sp>
+<sp who="#zinchenko"><speaker>Зинченко <stage>(встал)</stage>.</speaker> <p>Нет, товарищ министр, нет.</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Отчего вы улыбаетесь, товарищ Зинченко? Вы толком скажите: почему не может.</p></sp>
+<sp who="#zinchenko"><speaker>Зинченко.</speaker> <p>Мы еще не подготовлены к такому темпу. Одиночки могут, а вся шахта нет.</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>А чем вам помочь, чтобы вы были подготовлены? <stage>(Пауза.)</stage> Не знаете? Садитесь, садитесь. Может, вы скажете, товарищ Хмара?</p></sp>
+<sp who="#hmara"><speaker>Хмара.</speaker> <p>Хотел бы вас послушать. На то вы и министром назначены, чтобы не только спрашивать, но и давать дельные указания.</p></sp>
+<sp who="#shahtery"><speaker>Шахтеры.</speaker> <p>Правильно, правильно...</p></sp>
+<sp who="#zinchenko"><speaker>Зинченко.</speaker> <p>Отчего вы улыбаетесь, товарищ министр? Вы толком скажите, что для этого нужно.</p></sp>
+    <stage>Входит Кондрат.</stage>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Попробую. Слышал я, что вы, старики, ездили по шахтам, к молодым шахтерам-стахановцам учиться у них, чтобы передать их опыт на Звезду. Было такое?</p></sp>
+<sp who="#hmara"><speaker>Хмара.</speaker> <p>Было.</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Я обращаюсь ко всем и в первую очередь к вам, товарищи донбассовцы. Среди вас родился и вырос Стаханов, так не пора ли вам создать по-настоящему опытные шахты?</p></sp>
+<sp who="#shahtery"><speaker>Шахтеры.</speaker> <p>Как, как создать?</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>А вот так: чтобы не мы ездили учиться, а чтобы к нам ездили учиться со всех сторон самым передовым методам шахтерского труда.</p>
+    <stage>Орлов аплодирует.</stage>
+    <p>Я вижу, вы согласны товарищи?</p></sp>
+<sp who="#hmara"><speaker>Хмара.</speaker> <p>Так нам министр не скажет.</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Почему?</p></sp>
+<sp who="#hmara"><speaker>Хмара.</speaker> <p>Он будет крыть нас за добычу, и все.</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Скажет, непременно скажет.</p></sp>
+    <stage>Входит Оксана, ведет за руку Анку. За ней — Ольга.</stage>
+<sp who="#oksana"><speaker>Оксана.</speaker> <p>Кондрат!</p></sp>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>Анка, Анка...</p></sp>
+<sp who="#anka"><speaker>Анка <stage>(бросилась к отцу)</stage>.</speaker> <p>Папа, папа...</p></sp>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>Где вы ее нашли?</p></sp>
+<sp who="#oksana"><speaker>Оксана.</speaker> <p>В степи около старой шахты лежала без сознания.</p></sp>
+<sp who="#anka"><speaker>Анка.</speaker> <p>Папа... папа...</p></sp>
+    <stage>Постепенно входит молодежь.</stage>
+<sp who="#kondrat"><speaker>Кондрат <stage>(обнял ее)</stage>.</speaker> <p>Где ты была, доченька, откуда у тебя эти лохмотья? <stage>(Снял с Анки рваный пиджак, кинул на траву.)</stage></p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Нужно сейчас же уложить ее в постель, потом все расскажет.</p></sp>
+<sp who="#anka"><speaker>Анка.</speaker> <p>Нет... я скажу... а то снова засну. Может, не проснусь... Там, в старой шахте, глубоко-глубоко... лежит партизан, только одни кости. Около него лежал пиджак... Я взяла его, заблудилась... Если бы мой начальник штаба Володька не был трусом, если бы он пошел со мной... Снова трещит... ой, как трещит кругом, папа!.. <stage>(Обняла Кондрата.)</stage> Папа...</p></sp>
+    <sp who="#olga"><speaker>Ольга.</speaker> <p>Кондрат, неси ее к нам. <stage>(Пошла в дом.)</stage></p></sp>
+    <stage>Кондрат уносит Анку в дом.</stage>
+    <stage>Макар поднял пиджак, осматривает его.</stage>
+<sp who="#hmara"><speaker>Хмара.</speaker> <p>Поищите, может что в карманах есть.</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Поищу. Здесь под подкладкой что-то есть. <stage>(Вынул бумажку, надел очки, чихает.)</stage> «Пишу кровью. Нас сегодня повезут на расстрел. На допросе честь родины, честь партии Ленина—Сталина сберегли. Нас выследил и донес в гестапо Филипп Семененко. Прощайте, товарищи шахтеры. Петр». Сын, сын... Дубрава...</p></sp>
+<sp who="#oksana"><speaker>Оксана <stage>(тихо)</stage>.</speaker> <p>Петр, сыночек мой, сын...</p></sp>
+<sp who="#makar"><speaker>Макар <stage>(подошел к ней)</stage>.</speaker> <p>Не плачь, не плачь... Петр сохранил нашу честь...</p></sp>
+<sp who="#oksana"><speaker>Оксана.</speaker> <p>Сын...</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Не плачь... Хмара, Гаврила, приведите сюда Филиппа Семененко. Не говорите ему ничего. Пусть посмотрит нам в глаза.</p></sp>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>Доставим.</p></sp>
+    <stage>Ушли.</stage>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Пойдем, Оксана, в дом, пойдем.</p></sp>
+    <stage>Ушли в дом.</stage>
+<sp who="#galya"><speaker>Галя.</speaker> <p>Как же оно так случилось?</p></sp>
+<sp who="#orlov"><speaker>Орлов.</speaker> <p>Гестаповцы расстреляли подпольный комитет, но среди расстрелянных сына Макара Ивановича не было. Видно, когда везли, Петр Макарович спрыгнул с машины и добежал до старой шахты.</p></sp>
+<sp who="#zinchenko"><speaker>Зинченко <stage>(осматривает пиджак)</stage>.</speaker> <p>Сильно по нему стреляли. Вот одна, две, три пули прошло.</p>
+    <stage>Входит Кондрат.</stage>
+    <p>Кто там?</p></sp>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>Плачет Оксана, Ольга. Макар Иванович тоже не выдержал.</p></sp>
+<sp who="#orlov"><speaker>Орлов.</speaker> <p>Может, пойти к ним?</p></sp>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>Не надо. <stage>(Пауза.)</stage> Не надо, пусть семья. Пойдемте ко мне.</p></sp>
+    <stage>Все идут к Кондрату. Входит Макар, берет пиджак, смотрит на него.</stage>
+    <sp who="#makar"><speaker>Макар <stage>(тихо)</stage>.</speaker> <p>Сын, сынок... <stage>(Закрыл лицо пиджаком.)</stage></p></sp>
+    <stage>ЗАНАВЕС</stage>
+</div>
+</div>
+<div type="act">
+<head>ДЕЙСТВИЕ ТРЕТЬЕ</head>
+<div type="scene">
+<head>ЯВЛЕНИЕ РАЗ</head>
+    <stage>Декорация та же, что и в предыдущей картине. Оксана сидит на ступеньках веранды, около нее лежат арбузы, она их вытирает. Входят Гаврила и Трофим.</stage>
+    <stage>Гаврила и Трофим. Здравствуйте, Оксана Андреевна.</stage>
+<sp who="#oksana"><speaker>Оксана.</speaker> <p>Здравствуйте, ребята.</p></sp>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>Макар Иванович сегодня приезжает?</p></sp>
+<sp who="#oksana"><speaker>Оксана.</speaker> <p>Сегодня.</p></sp>
+<sp who="#trofim"><speaker>Трофим.</speaker> <p>Поездом?</p></sp>
+<sp who="#oksana"><speaker>Оксана.</speaker> <p>Поездом.</p></sp>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>Московским, значит?</p></sp>
+<sp who="#oksana"><speaker>Оксана.</speaker> <p>Да. А девушки в саду спят, только с работы пришли.</p></sp>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>И мы только вернулись. Переоделись и к вам.</p></sp>
+<sp who="#oksana"><speaker>Оксана.</speaker> <p>И вам спать надо.</p></sp>
+<sp who="#trofim"><speaker>Трофим.</speaker> <p>Не спится, Оксана Андреевна.</p></sp>
+<sp who="#oksana"><speaker>Оксана.</speaker> <p>А чего же это вам не спится?</p></sp>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>Это у нас <stage>(вздохнул)</stage> чисто нервное. Всякие мысли сон гонят.</p></sp>
+<sp who="#oksana"><speaker>Оксана.</speaker> <p>Ага, вижу... Приходите, когда Макар приедет, угощу арбузами.</p></sp>
+<sp whp="gavrila trofim"><speaker>Парни.</speaker> <p>Спасибо.</p></sp>
+    <stage>Оксана ушла в дом.</stage>
+<sp who="#trofim"><speaker>Трофим.</speaker> <p>Пойдем, Гаврила. Девушки устали, пусть отдохнут.</p></sp>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>Это верно. <stage>(Подходит к саду.)</stage></p></sp>
+<sp who="#trofim"><speaker>Трофим.</speaker> <p>Куда же ты?</p></sp>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>Спят девушки, ну что же, пусть отдыхают.</p></sp>
+<sp who="#trofim"><speaker>Трофим.</speaker> <p>Давай, Гаврила, тихо споем.</p></sp>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>Что же, споем. На баяне.</p></sp>
+    <sp who="#trofim"><speaker>Трофим <stage>(играет, тихо начал, петь)</stage>.</speaker>
+<lg>
+    <l>Спят курганы темные,</l>
+<l>Солнцем опаленные...</l>
+    </lg>
+    </sp>
+    <sp who="#gavrila"><speaker>Гаврила <stage>(поддерживает)</stage>.</speaker>
+        <p>Вышел в степь донецкую парень молодой.</p></sp>
+    <stage>Из сада — голоса девушек, они поют: «Девушки пригожие парня с песней встретили, руку дружбы подали, повели с собой». Гаврила и Трофим уходят в сад. Последний куплет поют вместе. Автомобильный гудок. Входит Павел.</stage>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Оля... Ольга!..</p>
+    <stage>Входит Ольга.</stage>
+    <p>Здравствуй, Ольга. Ко мне пришли два пакета на твое имя. <stage>(Передает пакеты.)</stage></p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Спасибо.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Я еду встречать Макара Ивановича. Может быть, кто-нибудь из вас поедет?</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Нет, спасибо, мы его встречаем дома.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Ольга, у меня осталось немного твоих книг. Сама зайдешь или их прислать тебе?</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Пришли, Павел.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Как ты живешь, Ольга?</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Работаю, начала писать диссертацию.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>О чем пишешь?</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Травматизм в горном деле. Тема моего доклада на съезде.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>И вновь о Звезде вспоминаешь?</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Обязательно вспоминаю, только теперь в другом плане.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Это хорошо. Кончай быстрее, тогда, может быть, с меня снимут строгий выговор.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>И так снимут. Отец рассказывал, что у тебя на шахте хорошо дела пошли.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Ничего особенно не случилось.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Как? У тебя за четыре месяца прошла на шахте целая революция.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Никакой революции. Сделали то, чего не делали раньше, начали работать, как положено.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Ты так тогда и не поехал в отпуск?</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Нет, готовился к экзаменам. Хочу закончить теперь горный институт. А то пройдет еще несколько лет, и будет поздно. Как ты на это смотришь?</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Скажу откровенно: не думала, что ты решишься снова сесть за парту.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Почему?</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Ты всегда считал, что понимаешь больше, нежели кто другой в горном деле.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Я и теперь так думаю.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Так зачем же ты едешь учиться?</p></sp>
+<sp who="#pavel"><speaker>Павел <stage>(улыбнулся)</stage>.</speaker> <p>Чтоб и Макар Иванович меня признал.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Только потому.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Есть еще одна причина. Учеба молодость возвращает, не хочу стареть.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Тебе еще далеко до старости.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Так думаешь?</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Уверена в этом. А потом, когда институт кончишь?</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Снова на шахту, другой жизни у меня нет и быть не может. А какие у тебя планы?</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Диссертация.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Защитишь, а потом к старому профессору в Киев?</p></sp>
+    <sp who="#olga"><speaker>Ольга.</speaker> <p>У меня план здесь организовать научно-исследовательский институт по травматизму.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>А разрешат?</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Если заслужим, разрешат.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Большой план у тебя.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Нелегкий, много нужно сделать. Ну, прости, я должна итти: спешу в клинику, там меня ждут.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Спеши, если ждут тебя. Так принести тебе книги али зайдешь за ними?</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Принеси.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Когда, Оля? Я сегодня уезжаю.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Сегодня... Ну, пришли.</p></sp>
+    <stage>Ольга пошла в дом. Павел ушел. Входит Оксана, берет арбуз. Выбежала Анка. На ней — длинный фартук. Закрыла глаза руками, стонет, кричит: «У, чорт!»</stage>
+<sp who="#oksana"><speaker>Оксана.</speaker> <p>Что с тобой, Анка?</p></sp>
+<sp who="#anka"><speaker>Анка.</speaker> <p>У, бандит!</p></sp>
+<sp who="#oksana"><speaker>Оксана.</speaker> <p>Кто?</p></sp>
+<sp who="#anka"><speaker>Анка.</speaker> <p>Я его терла, а он...</p></sp>
+<sp who="#oksana"><speaker>Оксана.</speaker> <p>Кого терла?</p></sp>
+<sp who="#anka"><speaker>Анка.</speaker> <p>Хрен. Ух, как болит!</p></sp>
+<sp who="#oksana"><speaker>Оксана.</speaker> <p>Открывай смело, открывай глаза. Ну, вот так. Анка. Папа очень хрен любит.</p></sp>
+<sp who="#oksana"><speaker>Оксана.</speaker> <p>Что это так горелым пахнет?</p></sp>
+<sp who="#anka"><speaker>Анка.</speaker> <p>Ну! А это у меня жаркое пригорело. Но ничего, папка даже любит, чтобы немножко с дымом было. Оксана. Немножко! На весь двор слышно.</p></sp>
+<sp who="#anka"><speaker>Анка.</speaker> <p>Ну! <stage>(Нюхает воздух.)</stage> Нет, нет, не очень слышно. Оксана. Что же ты ему стряпаешь?</p></sp>
+<sp who="#anka"><speaker>Анка.</speaker> <p>Борщ. Потом хрен, потом жаркое, потом вареники. Только вареники у меня расклеились.</p></sp>
+<sp who="#oksana"><speaker>Оксана.</speaker> <p>Расклеились?</p></sp>
+<sp who="#anka"><speaker>Анка.</speaker> <p>Да. Ну ничего, я перемешала творог с тестом. Попробовала, вкус тот же самый.</p></sp>
+<sp who="#oksana"><speaker>Оксана.</speaker> <p>Хотела тебе Оля помочь — отказалась. Теперь, небось, жалеешь?</p></sp>
+<sp who="#anka"><speaker>Анка.</speaker> <p>Нет. Папка должен знать, что у него уже есть хозяйка. Я и компот сварила и рубашку ему выстирала.</p></sp>
+<sp who="#oksana"><speaker>Оксана.</speaker> <p>Хорошо встречаешь отца. Ты действительно хозяйка.</p></sp>
+<sp who="#anka"><speaker>Анка.</speaker> <p>Да, я хозяйка теперь настоящая. Что, не верите? Пойдем, я вам покажу, как я убрала квартиру, цветы поставила. Пойдем.</p></sp>
+<sp who="#oksana"><speaker>Оксана.</speaker> <p>Я верю, верю...</p></sp>
+<sp who="#anka"><speaker>Анка.</speaker> <p>А вы как встречаете Макара Ивановича? </p></sp>
+<sp who="#oksana"><speaker>Оксана.</speaker> <p>На закуску будет селедочка, грибки, винегрет. Анка. Ого, а потом?</p></sp>
+<sp who="#oksana"><speaker>Оксана.</speaker> <p>Борщ, рыба жареная, котлеты, арбузы.</p></sp>
+<sp who="#anka"><speaker>Анка.</speaker> <p>А много их у вас?</p></sp>
+<sp who="#oksana"><speaker>Оксана.</speaker> <p>Не так уж много. Г ости будут.</p></sp>
+<sp who="#anka"><speaker>Анка.</speaker> <p>Я тоже хотела купить арбуз, папка очень любит. Оксана. Чего же не купила?</p></sp>
+<sp who="#anka"><speaker>Анка.</speaker> <p>Поздно в лавку пошла — разобрали.</p></sp>
+<sp who="#oksana"><speaker>Оксана.</speaker> <p>Надо было пораньше встать.</p></sp>
+<sp who="#anka"><speaker>Анка.</speaker> <p>Одолжите мне один, я вам завтра отдам. Оксана. Ишь ты, завтра! Не могу, гости у нас.</p></sp>
+<sp who="#anka"><speaker>Анка.</speaker> <p>А поезд скоро придет?</p></sp>
+<sp who="#oksana"><speaker>Оксана.</speaker> <p>Скоро.</p></sp>
+<sp who="#anka"><speaker>Анка.</speaker> <p>Хоть бы не опоздал.</p></sp>
+<sp who="#oksana"><speaker>Оксана.</speaker> <p>Не опоздает. Рада, что приезжает отец? Анка. Очень.</p></sp>
+<sp who="#oksana"><speaker>Оксана.</speaker> <p>Ну, если рада, то бери вон тот.</p></sp>
+<sp who="#anka"><speaker>Анка.</speaker> <p>Вот этот, маленький?</p></sp>
+<sp who="#oksana"><speaker>Оксана.</speaker> <p>Нет, вон тот, большой.</p></sp>
+<sp who="#anka"><speaker>Анка.</speaker> <p>Спасибо! <stage>(Схватила арбуз, обнимает и целует Оксану.)</stage></p></sp>
+<sp who="#oksana"><speaker>Оксана.</speaker> <p>Иди, иди, Анка, что-то горит.</p></sp>
+<sp who="#anka"><speaker>Анка.</speaker> <p>Ничего, мы любим с дымом. <stage>(Убежала.)</stage></p></sp>
+    <stage>Входит Ольга.</stage>
+<sp who="#oksana"><speaker>Оксана.</speaker> <p>Куда ты, Оленька?</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>На минутку в клинику, а потом к больному на квартиру.</p></sp>
+<sp who="#oksana"><speaker>Оксана.</speaker> <p>Не опоздай, поезд скоро придет.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Не опоздаю.</p></sp>
+<sp who="#oksana"><speaker>Оксана.</speaker> <p>Ты что ж, на вокзал не захотела поехать? Отцу приятно было б... Выходит из вагона, а на перроне — дочь, да еще с цветочками.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Я ему здесь цветы поднесу.</p></sp>
+<sp who="#oksana"><speaker>Оксана.</speaker> <p>А может, не поехала потому, что Павел встречает?</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Не надо, мама, не надо об этом. Я же вас просила.</p></sp>
+<sp who="#oksana"><speaker>Оксана <stage>(после паузы)</stage>.</speaker> <p>Не спала ты и эту ночь. Вижу, тяжело тебе, Оленька. Может, ты все-таки...</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Мама, я вас прошу... Ну вот, зачем вы... <stage>(Уходит.)</stage></p></sp>
+    <stage>Оксана идет в дом. Из сада выходят Галя и Гаврила, стали под яблоней.</stage>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>Кажется, никого нет.</p></sp>
+<sp who="#galya"><speaker>Галя.</speaker> <p>Нет.</p></sp>
+    <stage>Из сада слышна гармонь.</stage>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>Слышишь, как Троша выводит? Только мы отошли, сразу в душу влазит. Ей веселой нужно, а он тоску разводит.</p></sp>
+<sp who="#galya"><speaker>Галя.</speaker> <p>А ты не смейся, Гаврила. У Троши такое сердце... </p></sp>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>Какое?</p></sp>
+<sp who="#galya"><speaker>Галя.</speaker> <p>Нежное. Он весь такой мягкий, сердечный... такой...</p></sp>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>Ясно.</p></sp>
+<sp who="#galya"><speaker>Галя.</speaker> <p>Гаврила...</p></sp>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>Ясно.</p></sp>
+<sp who="#galya"><speaker>Галя.</speaker> <p>Ты сердишься?</p></sp>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>Нет.</p></sp>
+<sp who="#galya"><speaker>Галя.</speaker> <p>Какой ты...</p></sp>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>Что?</p></sp>
+<sp who="#galya"><speaker>Галя.</speaker> <p>Хороший.</p></sp>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>Нет. Я не мягкий, не сердечный, не нежный... Галя. Что ж, я про Трофима и слова хорошего не могу сказать при тебе?</p></sp>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>Говори, говори, сколько хочешь, но мне все ясно.</p></sp>
+<sp who="#galya"><speaker>Галя.</speaker> <p>Что тебе ясно? Эх ты, хороший мой!.. Обними меня.</p></sp>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>Зачем?</p></sp>
+<sp who="#galya"><speaker>Галя.</speaker> <p>Поцеловать хочу. Ну...</p>
+    <stage>Гаврила взял на руки Галю.</stage>
+    <p>Ой, ой, задушишь, задушишь!..</p></sp>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>Если ты еще раз мне так о Трофиме будешь говорить, задушу...</p></sp>
+<sp who="#galya"><speaker>Галя.</speaker> <p>Не буду, не буду, пусти...</p>
+    <stage>Гаврила целует Галю.</stage>
+    <p>Пусти! <stage>(Вырвалась.)</stage> Ну разве так можно? Ой, ребро сломал! Ой!..</p></sp>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>А ну, которое? <stage>(Идет к ней.)</stage></p></sp>
+<sp who="#galya"><speaker>Галя.</speaker> <p>Нет, нет, целое.</p></sp>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>Галя!</p></sp>
+<sp who="#galya"><speaker>Галя.</speaker> <p>Что?</p></sp>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>Когда же мы будем вместе?</p></sp>
+<sp who="#galya"><speaker>Галя.</speaker> <p>Начал...</p></sp>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>Не могу я.</p></sp>
+<sp who="#galya"><speaker>Галя.</speaker> <p>Скоро приезжает моя тетка из села — увидишь, какая у меня тетка.</p></sp>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>А чего ее сюда несет?</p></sp>
+<sp who="#galya"><speaker>Галя.</speaker> <p>Несет... За мной и за Марфой приезжает.</p></sp>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>Как?</p></sp>
+<sp who="#galya"><speaker>Галя.</speaker> <p>В этом месяце кончается наш договор на шахте.</p></sp>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>И ты поедешь в село?</p></sp>
+<sp who="#galya"><speaker>Галя.</speaker> <p>Посмотрю, если тетка скажет ехать.</p></sp>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>Считай свою тетку мертвой.</p></sp>
+<sp who="#galya"><speaker>Галя.</speaker> <p>Как?</p></sp>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>Я ее сотру в пыль, а тебя — под пиджак и занесу домой.</p></sp>
+<sp who="#galya"><speaker>Галя.</speaker> <p>Но, но... Ты лучше мою тетку не трогай, она сильнее тебя.</p></sp>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>Да я за тебя согласен драться не только с: твоими чортовыми тетками, но и с кем хочешь. Целый полк. разбросать могу.</p></sp>
+<sp who="#galya"><speaker>Галя.</speaker> <p>Ну?</p></sp>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>Досмерти буду драться.</p></sp>
+<sp who="#galya"><speaker>Галя.</speaker> <p>Будешь?</p></sp>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>Буду. Знай, я не шучу.</p></sp>
+<sp who="#galya"><speaker>Галя <stage>(закрыла глаза, тихо)</stage>.</speaker> <p>Обними меня, обними...</p></sp>
+<sp who="#gavrila"><speaker>Гаврила <stage>(подходит)</stage>.</speaker> <p>Галя... <stage>(Поднял ее.)</stage></p></sp>
+    <stage>В эту минуту входят Трофим и Марфа.</stage>
+<sp who="#trofim"><speaker>Трофим.</speaker> <p>Гаврила, Галя, пойдемте в кино.</p></sp>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>Идите. <stage>(Унес Галю в сад.)</stage></p></sp>
+<sp who="#marfa"><speaker>Марфа <stage>(смотрит вслед)</stage>.</speaker> <p>Вот какой...</p></sp>
+<sp who="#trofim"><speaker>Трофим.</speaker> <p>Может, и мы не пойдем?</p></sp>
+<sp who="#marfa"><speaker>Марфа.</speaker> <p>Не люблю долго сидеть на одном месте.</p></sp>
+<sp who="#trofim"><speaker>Трофим.</speaker> <p>Так пойдем?</p></sp>
+<sp who="#marfa"><speaker>Марфа.</speaker> <p>Нет. Останемся здесь... Видел, как он ее унес в сад?</p></sp>
+<sp who="#trofim"><speaker>Трофим.</speaker> <p>Здоровый Гаврила, потому и носит ее.</p></sp>
+<sp who="#marfa"><speaker>Марфа.</speaker> <p>Эх и парень!.. Сила. А характер какой. Тебе бы, Троша, хоть немного его силы, характера... <stage>(Смотрит в сад, поет.)</stage></p></sp>
+<sp who="#trofim"><speaker>Трофим.</speaker> <p>Ясно.</p></sp>
+<sp who="#marfa"><speaker>Марфа <stage>(повернулась)</stage>.</speaker> <p>Что ты, Троша?</p></sp>
+<sp who="#trofim"><speaker>Трофим.</speaker> <p>Ясно.</p></sp>
+<sp who="#marfa"><speaker>Марфа.</speaker> <p>Ты что, сердишься?</p></sp>
+<sp who="#trofim"><speaker>Трофим.</speaker> <p>Нет.</p></sp>
+<sp who="#marfa"><speaker>Марфа.</speaker> <p>Не смотри так, не смотри...</p></sp>
+<sp who="#trofim"><speaker>Трофим.</speaker> <p>Что ж, у меня нет такой силы, ростом не вышел, нет у меня такого характера, как у Гаврилы. нет у меня...</p></sp>
+<sp who="#marfa"><speaker>Марфа.</speaker> <p>Гаврила — друг твой. Неужели о нем и слова тебе нельзя сказать?</p></sp>
+<sp who="#trofim"><speaker>Трофим.</speaker> <p>Можно. Я разве что... Гаврила — мой друг, говори, что хочешь, говори, но мне ясно...</p></sp>
+<sp who="#marfa"><speaker>Марфа.</speaker> <p>Да не смотри так, синеглазый мой! <stage>(Обняла его.)</stage> Троша...</p></sp>
+<sp who="#trofim"><speaker>Трофим.</speaker> <p>Ой, задушишь, задушишь!</p></sp>
+<sp who="#marfa"><speaker>Марфа.</speaker> <p>Задушу... У кого такие глаза, у кого такое сердце... Троша мой! <stage>(Целует его.)</stage> Пойдем в сад. <stage>(Взяла его за руку, и пошли в сад.)</stage></p></sp>
+    <stage>Остановилась машина. Голос Павла: «Возвращайтесь на вокзал за стариками, только быстро». Входят с чемоданами Макар, Кондрат, с ними Павел.</stage>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Так что же тебе понравилось в моем выступлении?</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Идея очень большая. Я когда прочитал в газете...</p></sp>
+<sp who="#kondrat"><speaker>Кондрат <stage>(перебивает)</stage>.</speaker> <p>В газетах сократили. Речь Макара Ивановича была сорок минут.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>В «Труде» широко подано.</p></sp>
+    <stage>Вбегает Анка.</stage>
+<sp who="#anka"><speaker>Анка <stage>(издали)</stage>.</speaker> <p>Папка, папка!..</p></sp>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>Иду, Анка. <stage>(Идет к ней навстречу, целует.)</stage></p></sp>
+<sp who="#anka"><speaker>Анка <stage>(взяла чемодан)</stage>.</speaker> <p>Как же ты похудел! Но ничего, я такой обед состряпала; знаешь, на первое борщ, на второе... <stage>(Уводит отца.)</stage></p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Поверишь, когда дали мне слово...</p></sp>
+    <stage>Входит Оксана.</stage>
+<sp who="#oksana"><speaker>Оксана.</speaker> <p>Павел, с кем это ты там разговариваешь?</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Ты что же, не узнаешь?</p></sp>
+<sp who="#oksana"><speaker>Оксана.</speaker> <p>Нет.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Макар Иванович. Не узнаете?</p></sp>
+<sp who="#oksana"><speaker>Оксана.</speaker> <p>Мой Макар, когда приезжает, сразу в дом идет. Знает, что жена его ждет.</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Вот это правильно, признаю критику. <stage>(Открывает чемодан, вынимает красивый большой платок, подносит его Оксане, целует ее.)</stage> Как же ты, Оксанушка, без меня тут жила?</p></sp>
+<sp who="#oksana"><speaker>Оксана.</speaker> <p>Спасибо, Макар, спасибо. Но больше я тебя одного не пущу. Такие сны мне снились...</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Ладно, ладно, вместе будем ездить.</p></sp>
+<sp who="#oksana"><speaker>Оксана.</speaker> <p>Павел, прошу отобедать у нас.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Спасибо.</p></sp>
+    <stage>Оксана ушла.</stage>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Пойдем, Павел.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Не могу, я уезжаю сегодня. Надо собраться, скоро поезд, в восемь отходит.</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Учиться?</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Да.</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Решил ехать?</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Решил... Не хотел бы я расставаться с вами так, Макар Иванович. Вы понимаете, вспоминать неприятно. Но хочу вам сказать от всей души...</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Не надо, Павел. Раз к сердцу дошло, не надо. Одно запомни, простую штуку: жить у нас ого дня ко дню нельзя. Никак не выйдет. Если трудно, посмотри из будущего на сегодняшний день, — тогда поймешь, почувствуешь. Тогда трудности — не трудности. Весело человек справляется с ними, потому видит далеко.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Спасибо, ну что ж, пойду. Скажите Ольге, если она сможет, пусть придет на вокзал. Поезд отходит в восемь. Очень хочу ее увидеть перед отъездом. Не забудете? Макар. Скажу, обязательно скажу.</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Прощайте, Макар Иванович.</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Будь здоров. <stage>(Подал руку.)</stage> Э, братец, да ты. я вижу...</p></sp>
+<sp who="#pavel"><speaker>Павел.</speaker> <p>Ничего, это так. <stage>(Уходит.)</stage></p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Стой. <stage>(Подошел, обнял Павла.)</stage> Теперь иди. Павел. Спасибо. <stage>(Ушел.)</stage></p></sp>
+    <stage>Макар смотрит ему вслед. Из сада слышен, баян, песня.</stage>
+    <stage>Входит Анка в новом платье.</stage>
+<sp who="#anka"><speaker>Анка.</speaker> <p>Дедушка, дедушка...</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Что?</p></sp>
+<sp who="#anka"><speaker>Анка.</speaker> <p>Идет ко мне это платье?</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Кто идет?</p></sp>
+<sp who="#anka"><speaker>Анка.</speaker> <p>Платье.</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Да к лицу тебе, к лицу.</p></sp>
+<sp who="#anka"><speaker>Анка.</speaker> <p>Это папка мне привез, а еще папа шляпу себе купил.</p>
+    <stage>Макар дарит Анке пионерский галстук.</stage>
+    <p>Какой день сегодня хороший! В жизни моей такого не было.</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Ну?</p></sp>
+<sp who="#anka"><speaker>Анка.</speaker> <p>Дедушка, дедушка...</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Что?</p></sp>
+<sp who="#anka"><speaker>Анка.</speaker> <p>Какой ты... <stage>(Обняла Макара, поцеловала и убежала в сад.)</stage></p></sp>
+    <stage>Входят старики, в руках у них маленькие букетики цветов.</stage>
+<sp who="#hmara"><speaker>Хмара.</speaker> <p>Заждались тебя, Макар Иванович.</p></sp>
+<sp who="#zinchenko"><speaker>Зинченко.</speaker> <p>Заждались.</p></sp>
+<sp who="#orlov"><speaker>Орлов.</speaker> <p>Мы читали в газетах, здорово вы, Макар Иванович...</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Не так уж здорово.</p></sp>
+<sp who="#orlov"><speaker>Орлов.</speaker> <p>Мы подсчитали: речь министра была всего лишь на тридцать пять строк больше вашей.</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Подсчитали? <stage>(Смеется.)</stage></p></sp>
+<sp whp="#orlov #zinchenko #hmara"><speaker>Старики.</speaker> <p>В точности.</p></sp>
+    <stage>Появляется Кондрат.</stage>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Спроси у Кондрата.</p></sp>
+<sp who="#orlov"><speaker>Орлов.</speaker> <p>Кондрат, почему о тебе только упомянули, что выступал, а больше ни слова?</p></sp>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>Не получилось у меня. На трибуну вышел, и такое со мной приключилось: рот открыл, языком шевелю, а голоса нет. Как ни нажимаю, ни звука.</p></sp>
+<sp who="#zinchenko"><speaker>Зинченко.</speaker> <p>Ну?</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Кашлял Кондрат долго, но министр его выручил.</p></sp>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>Выручил, лучше не вспоминать.</p></sp>
+<sp who="#zinchenko"><speaker>Зинченко.</speaker> <p>Нет, уж рассказывать все начистоту.</p></sp>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>Кашляю я, а министр спрашивает: «Что, простудились?»</p></sp>
+<sp who="#hmara"><speaker>Хмара.</speaker> <p>А ты думал. На таком ответственном собрании и не то может статься.</p></sp>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>Тогда он подошел ко мне, положил руку на плечо и говорит: «Расскажите просто о своей работе».</p></sp>
+<sp who="#zinchenko"><speaker>Зинченко.</speaker> <p>И ты?</p></sp>
+<sp who="#kondrat"><speaker>Кондрат.</speaker> <p>Начал рассказывать, вот и все.</p></sp>
+    <stage>Макар раздает старикам подарки. Кондрат ушел.</stage>
+<sp who="#makar"><speaker>Макар.</speaker> <p>И будет теперь наша Звезда опытной шахтой.</p></sp>
+<sp who="#orlov"><speaker>Орлов.</speaker> <p>Утвердила Москва?</p></sp>
+    <sp who="#makar"><speaker>Макар.</speaker> <p>Да. В этом году начнем строить пятнадцать домов. Скоро приедут сюда ученые, инженеры, даже один академик.</p></sp>
+    <stage>Входит Ольга.</stage>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>С приездом... <stage>(Целуется с отцом и здоровается со всеми.)</stage> Как съездилось?</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Хорошо, Оля, очень хорошо. Что ж, пообедаем здесь, под яблоней. Как, Оля?</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Верно.</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Скажи матери.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Сейчас. <stage>(Идет в дом.)</stage></p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Оля! <stage>(Подошел к ней, тихо.)</stage> Павел хотел тебя видеть. Он был здесь, но не застал тебя.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Когда уезжает?</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Сегодня в восемь уезжает. Просил тебя на вокзал притти, если у тебя будет время.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Не смогу.</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Не сможешь?</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Не то сказала, отец. Я не пойду. Не надо. Нет... лет. <stage>(Ушла.)</stage></p></sp>
+    <stage>Макар возвращается. Слышен женский голос: «Есть ля кто дома?» Входит тетка Гали и Марфы — Мария Николаевна Смерека, у нее на плечах два больших мешка.</stage>
+<sp who="#mariya"><speaker>Мария.</speaker> <p>Добрый день, товарищи шахтеры. Кто из вас будет Макар Иванович Дубрава?</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Я. Здравствуйте.</p></sp>
+<sp who="#mariya"><speaker>Мария <stage>(подошла, сбросила мешки)</stage>.</speaker> <p>Хоть и вспотела хорошо, но добралась. Я тетка Гали и Марфы. <stage>(Подает руку.)</stage> Звеньевая колхоза «Октябрь» Мария Николаевна Смерека.</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Очень приятно нам видеть вас. Познакомьтесь, Мария Николаевна, это мои товарищи шахтеры.</p></sp>
+    <stage>Все встали.</stage>
+<sp who="#mariya"><speaker>Мария.</speaker> <p>Что ж это вы все такие усатые? У нас парни вашего возраста бреются. <stage>(Подает всем руку.)</stage></p></sp>
+<sp who="#hmara"><speaker>Хмара.</speaker> <p>Вероятно, у вас молодухи лютые.</p></sp>
+<sp who="#mariya"><speaker>Мария.</speaker> <p>Где там! Теперь мы все такие добрые, сладкие, как мед на спаса. А где ж Галя и Марфа? <stage>(Крикнула.)</stage> Галя, Марфа!</p>
+    <stage>Голоса из сада: «Тетка, тетка приехала».</stage>
+    <p>Услышали, а? Видите: как родной голос, сразу услышали. Хмара. Да. Голосок у вас раскатистый.</p></sp>
+<sp who="#mariya"><speaker>Мария.</speaker> <p>А мы в степи привыкли...</p></sp>
+    <stage>Вбегают Галя, Марфа, за ними — Гаврила и Трофим.</stage>
+<sp who="#galya"><speaker>Галя.</speaker> <p>Тетя, это вы?</p></sp>
+    <sp who="#mariya"><speaker>Мария.</speaker> <p>Я, голубушка.</p></sp>
+    <stage>Целуются.</stage>
+<sp who="#marfa"><speaker>Марфа.</speaker> <p>Тетя!</p></sp>
+<sp who="#mariya"><speaker>Мария.</speaker> <p>Я, голубушка.</p>
+    <stage>Целуются.</stage>
+    <p>А это что за парни?</p></sp>
+<sp who="#galya"><speaker>Галя.</speaker> <p>Это Гаврила. <stage>(Берет его за руку.)</stage> Познакомься. Мария. Здоров парень! <stage>(Подает руку.)</stage> Что же ты мне так руку жмешь, а ну давай, давай, давай. Сильнее... А теперь я попробую... Ну, хватит. Хороший парень!</p></sp>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>Хорошая тетка у тебя, Галя.</p></sp>
+<sp who="#marfa"><speaker>Марфа.</speaker> <p>А это Трофим. Только, тетя...</p></sp>
+<sp who="#mariya"><speaker>Мария.</speaker> <p>Не учи, сама вижу. <stage>(Подала руку.)</stage> А хорошенький какой!</p></sp>
+<sp who="#marfa"><speaker>Марфа.</speaker> <p>Но, но...</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Просим в комнаты. Устали в дороге?</p></sp>
+<sp who="#mariya"><speaker>Мария.</speaker> <p>Где там! В мягком ехала. Так спать было хорошо. <stage>(Посмотрела вокруг.)</stage> Несите, Галя, Марфа, под ту яблоню скатерть, тарелки, а я мешки вытрушу. Здесь колбаса, сало, поросенок жареный, поляницы, пирожки — всего понемногу, что у нас произрастает. Прошу всех попробовать колхозной еды, она у нас без того, — как их... витамины, — без витаминов, но мы не обижаемся. Прошу.</p></sp>
+<sp who="#hmara"><speaker>Хмара.</speaker> <p>А мы без них жить не можем. Где у вас витамин «пы» — поросенок?</p></sp>
+<sp who="#mariya"><speaker>Мария.</speaker> <p>Здесь. Тяните мешки под яблоню.</p></sp>
+    <stage>Все идут под яблоню. Макар пошел в дом. Остались Гаврила и Трофим.</stage>
+<sp who="#trofim"><speaker>Трофим.</speaker> <p>А что если эта тетка уговорит девушек возвратиться домой?</p></sp>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>Не выйдет.</p></sp>
+<sp who="#trofim"><speaker>Трофим.</speaker> <p>А если уговорит?</p></sp>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>Пусть попробует. Галю под пиджак — и будьте здоровы, тетушка.</p></sp>
+<sp who="#trofim"><speaker>Трофим.</speaker> <p>А как же мне с Марфой быть?</p></sp>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>Да, у тебя это не выйдет.</p></sp>
+<sp who="#trofim"><speaker>Трофим.</speaker> <p>А что если мы при всех заявим, что любим и хотим...</p></sp>
+    <stage>Входят Макар, Оксана и Ольга.</stage>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Жена моя.</p></sp>
+<sp who="#mariya"><speaker>Мария.</speaker> <p>Здравствуйте, Оксана Андреевна. Писали мне девушки о вас, как о матери родной. Спасибо вам.</p></sp>
+<sp who="#oksana"><speaker>Оксана.</speaker> <p>И мы их полюбили, как родных.</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Знакомьтесь — дочь моя.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Нам много о вас рассказывали Галя и Марфа.</p></sp>
+<sp who="#mariya"><speaker>Мария.</speaker> <p>Ругали тетку или нет?</p></sp>
+<sp who="#oksana"><speaker>Оксана.</speaker> <p>Нет.</p></sp>
+<sp who="#mariya"><speaker>Мария.</speaker> <p>Пусть только попробуют, я им наведу дисциплину!</p></sp>
+<sp who="#trofim"><speaker>Трофим.</speaker> <p>Слышал? Ясно.</p></sp>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>Как не ясно.</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Как урожай в этом году?</p></sp>
+<sp who="#mariya"><speaker>Мария.</speaker> <p>Хороший. Но не у всех одинаковый. В колхозе, как на шахте: если хорошо работаешь, то и добыча есть. Так, кажись, по-вашему?</p></sp>
+    <stage>Все идут к столу.</stage>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Кондрат, иди к нам. <stage>(Марии.)</stage> Выпьем за ваш приезд. За ваше здоровье, Мария Николаевна.</p></sp>
+<sp who="#mariya"><speaker>Мария.</speaker> <p>Спасибо. За ваше здоровье.</p></sp>
+<sp who="#orlov"><speaker>Орлов.</speaker> <p>Мария Николаевна, просим вас, осмотрите нашу шахту.</p></sp>
+<sp who="#mariya"><speaker>Мария.</speaker> <p>Посмотрю, непременно посмотрю. Только сегодня же. Завтра возвращаемся домой. Как там ждут тебя, Галя, и тебя, Марфа! Встретят всем колхозом.</p></sp>
+<sp who="#trofim"><speaker>Трофим.</speaker> <p>Гаврила...</p></sp>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>Я извиняюсь, Мария Николаевна, а зачем им ехать в село?</p></sp>
+<sp who="#mariya"><speaker>Мария.</speaker> <p>Договор закончился, два года проработали. Как их там ждут...</p></sp>
+<sp who="#galya"><speaker>Галя <stage>(встала)</stage>.</speaker> <p>Выпьем за наше родное село.</p></sp>
+    <stage>Входит Кондрат.</stage>
+<sp who="#mariya"><speaker>Мария.</speaker> <p>Выпьем.</p></sp>
+<sp who="#galya"><speaker>Галя.</speaker> <p>Какое оно хорошее! В садах беленькие хаты, а тополя, сколько глазом глянешь, сторожат дороги. Шумит камышами речка, а ночи, ночи... до восхода солнца выгребаешь звезды веслом. Люблю я село. Люблю во всякую пору — и когда тетка Мария сердито покрикивает: «Вставайте к машине, разоспались», а мы всего на два часа глаза закрыли. Нелегко мне было, когда пришла на шахту. Трудно было. В первый день я под землей заплакала. Пролетели два года, теперь я машинист электровоза. Сама не заметила, как полюбила труд шахтера. Скажите всем, тетя Мария: нет в мире такой великой и почетной работы, как наш шахтерский труд... Поклонитесь от нас, тетя, родному селу, передайте всем, что мы... <stage>(Остановилась от волнения.)</stage></p></sp>
+    <sp who="#gavrila"><stage>Гаврила, растянув гармонь, начинает песню:</stage>
+    <lg>
+    <l>Стоят териконы, синеют просторы,</l>
+    <l>И солнце лучится из девичьих глаз.</l>
+    <l>В забои идут молодые шахтеры,</l>
+    <l>Трудом прославляя любимый Донбасс.</l>
+    <l>Шахтеры подхватывают песню:</l>
+    <l>В забои идут молодые шахтеры,</l>
+    <l>Трудом прославляя любимый Донбасс.</l>
+    </lg></sp>
+<sp who="#mariya"><speaker>Мария <stage>(взволнованно)</stage>.</speaker> <p>И ты, Марфа, так решила?</p></sp>
+<sp who="#marfa"><speaker>Марфа.</speaker> <p>И я, тетя Мария. <stage>(Обняла ее.)</stage> Оставайтесь с нами. Жизнь шахтерская — это что книга самая интересная, а может, и больше. Оставайтесь, мы вас здесь еще замуж выдадим.</p></sp>
+<sp who="#hmara"><speaker>Хмара.</speaker> <p>Это верно, кавалеры у нас — орлы.</p></sp>
+<sp who="#hmara #kondrat #zinchenko"><speaker>Старики.</speaker> <p>Орлы! <stage>(Покручивают усы.)</stage></p></sp>
+<sp who="#marfa"><speaker>Марфа.</speaker> <p>Оставайтесь!</p></sp>
+<sp who="#mariya"><speaker>Мария.</speaker> <p>Что ты, я никогда село не оставлю. Не ждала, не ждала... Построила для вас новый дом, посадила сад, думала на старости детей ваших качать на руках.</p></sp>
+<sp who="#galya"><speaker>Галя <stage>(взяла Гаврилу за руку)</stage>.</speaker> <p>Тетя Мария, благословите нас, мы любим друг друга.</p></sp>
+<sp who="#mariya"><speaker>Мария <stage>(подошла)</stage>.</speaker> <p>Если дашь слово, что деток мне привезешь в село...</p></sp>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>Можно.</p></sp>
+<sp who="#mariya"><speaker>Мария.</speaker> <p>Только смотри, Гаврила, за Галей: видишь, какая она у нас...</p></sp>
+<sp who="#gavrila"><speaker>Гаврила.</speaker> <p>Не беспокойтесь, тетушка, благословляйте.</p></sp>
+<sp who="#marfa"><speaker>Марфа.</speaker> <p>Троша, чего ты стоишь? <stage>(Взяла его за руку, ведет к Марии.)</stage> Благословите и нас, тетя.</p></sp>
+<sp who="#mariya"><speaker>Мария.</speaker> <p>А деток привезешь ко мне в село?</p></sp>
+<sp who="#mariya"><speaker>Мария.</speaker> <p>Всех сдам, благословляйте.</p></sp>
+<sp who="#mariya"><speaker>Мария.</speaker> <p>Только смотри <stage>(пауза)</stage>, смотри, Марфа, за ним: видишь, какой он сердечный!</p></sp>
+<sp who="#marfa"><speaker>Марфа.</speaker> <p>Не беспокойтесь.</p></sp>
+<sp who="#mariya"><speaker>Мария <stage>(целует Марфу и Трофима)</stage>.</speaker> <p>Наливайте по полной, чтоб наша доля нас не чуралась.</p></sp>
+<sp who="#marfa"><speaker>Марфа.</speaker> <p>Макар Иванович, вы нам как отец родной. Скажите свое слово.</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Скажу вам одно: любите друг друга, помните: семья — это большое счастье и радость. Но чтоб построить хорошую семью, мало одной только любви, нужна еще большая дружба.</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Где есть любовь, там есть и дружба.</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Нет, Оля. Видел я «а своем веку не раз: и любят друг друга, а построить жизнь не могут. За семью бороться надо. Друг друга поддерживать. Если один поскользнется, не дать ему упасть. Лови у самой земли, но не дай упасть. Вот я много лет прожил с Оксаной Андреевной, а в молодости она меня раз выручила. И очень выручила. Был случай...</p></sp>
+<sp who="#oksana"><speaker>Оксана.</speaker> <p>Не раз, а два.</p></sp>
+<sp who="#makar"><speaker>Макар.</speaker> <p>Правильно, два. Признаю.</p></sp>
+    <stage>Ольга встала.</stage>
+    <sp who="#marfa #favrila #mariya #hmara #orlov #trofim #galya #kondrat #zinchenko"><speaker>Все.</speaker> <p>Куда вы, Ольга Макаровна, куда вы?</p></sp>
+<sp who="#olga"><speaker>Ольга.</speaker> <p>Мне надо, я скоро вернусь. <stage>(Уходит.)</stage></p></sp>
+<sp who="#makar"><speaker>Макар <stage>(посмотрел на часы)</stage>.</speaker> <p>Половина восьмого. На станцию. Успеет. <stage>(Всем.)</stage> Она скоро вернется. Так вот, друзья мои, что мне хочется сказать. На этом месте много лет тому назад сказал товарищ Сталин шахтерам: вы теперь хозяева, и выросли здесь новые дома, новые шахты и яблони. Вам, молодым, предстоит сделать еще больше, чем сделали наши руки. От всей души желаю вам счастья.</p></sp>
+    <stage>Хмара разносит бокалы. Все поют «Териконы». Марфа и Галя целуют Макара.</stage>
+    <stage>ЗАНАВЕС</stage>
+</div>
+</div>
+</body>
+</text>
+</TEI>
