@@ -318,11 +318,11 @@ def calculate_tf_idf():
 
 
 def main():
-    # extract_speech()
-    # strip_punctuation()
-    # remove_proper_nouns()
-    # lemmatize()
-    # group_plays()
+    extract_speech()
+    strip_punctuation()
+    remove_proper_nouns()
+    lemmatize()
+    group_plays()
     calculate_tf_idf()
 
 
